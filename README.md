@@ -70,19 +70,17 @@
 
 ## Installation
 
-- To run this website locally on your computer, follow these steps :
-
-1. Clone this repository to your local machine using Git : 
+- Clone the repository to your local machine using the following command :
    ```bash
    git clone https://github.com/TheMrityunjayPathak/TheMrityunjayPathak.github.io.git
    ```
 
-2. Navigate to the project directory :
+- Navigate to the project directory :
    ```bash
    cd your-portfolio
    ```
 
-3. Open the file in your preferred web browser. 
+- Open the file in your preferred web browser. 
 
 ## Usage
 
@@ -107,13 +105,9 @@
 
 ## License
 
-- This project is licensed under the [MIT License](LICENSE). You are free to use and modify the code as needed for your own portfolio website.
-  
-- Feel free to explore the website and adapt it to your preferences to create a stunning online portfolio.
-  
-- If you have any questions or need assistance, please don't hesitate to contact me.
+- This project is licensed under the [MIT License](LICENSE).
 
-- Enjoy showcasing your work and experiences!
+- You are free to use and modify the code as needed for your own portfolio website.
 
 | [Scroll to Top ⬆️](#mrityunjay-pathak) |
 |:---:|
