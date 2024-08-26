@@ -22,7 +22,7 @@
 
 ## Features
 
-🔵 **CSS Background**
+**CSS Background**
 
 • The stylish dotted pattern you see in hero section of the website is created CSS Backgrounds.
 
@@ -32,9 +32,11 @@
 
 • It adds a modern and professional touch to the overall website.
 
-𝗟𝗶𝗻𝗸 𝗼𝗳 𝗖𝗦𝗦 𝗕𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱 : [CSS Backgrounds by Magic Patterns](https://www.magicpattern.design/tools/css-backgrounds)
+**Link of CSS Backgrounds** : [CSS Backgrounds by Magic Patterns](https://www.magicpattern.design/tools/css-backgrounds)
 
-🔴 **DesignStripe**
+---
+
+**DesignStripe**
 
 • The illustration you see in the hero section of the website is downloaded from DesignStripe.
 
@@ -42,31 +44,37 @@
 
 • You can also download it as PNG or SVG with transparent background.
 
-𝗟𝗶𝗻𝗸 𝗼𝗳 𝗗𝗲𝘀𝗶𝗴𝗻𝗦𝘁𝗿𝗶𝗽𝗲 : [DesignStripe](https://designstripe.com/)
+**Link of DesignStripe** : [DesignStripe](https://designstripe.com/)
 
-🟡 **Google Fonts**
+---
+
+**Google Fonts**
 
 • To enhance the readability and visual appeal, I've used Google Fonts for the text and headings.
 
 • It's all about making sure everything looks great and is easy to read.
 
-𝗟𝗶𝗻𝗸 𝗼𝗳 𝗚𝗼𝗼𝗴𝗹𝗲 𝗙𝗼𝗻𝘁𝘀 : [Google Fonts](https://fonts.google.com/)
+**Link of Google Fonts** : [Google Fonts](https://fonts.google.com/)
 
-🟢 **Flaticons**
+---
+
+**Flaticons**
 
 • I've made sure the website is easy to navigate with the help of Flaticons.
 
 • These icons are visually appealing and are free to use in PNG or SVG Formats in any size.
 
-𝗟𝗶𝗻𝗸 𝗼𝗳 𝗙𝗹𝗮𝘁𝗶𝗰𝗼𝗻𝘀 : [Flaticons](https://www.flaticon.com/)
+**Link of Flaticons** : [Flaticons](https://www.flaticon.com/)
 
-🟣 **Formspree**
+---
+
+**Formspree**
 
 • I've included a Contact Form powered by Formspree, which ensures that reaching out to me is as easy as possible.
 
 • It's simple and functional, without the need for complex backend technologies like PHP.
 
-𝗟𝗶𝗻𝗸 𝗼𝗳 𝗙𝗼𝗿𝗺𝘀𝗽𝗿𝗲𝗲 : [Formspree](https://formspree.io/)
+**Link of Formspree** : [Formspree](https://formspree.io/)
 
 ## Installation
 
