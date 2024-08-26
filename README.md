@@ -88,11 +88,11 @@
 
 ## Usage
 
-- Customize it with your own projects, content, and contact details.
+- Customize it with your own projects, content and contact details.
 
 - To customize the website :
 
-   - Modify the HTML in `index.html` to update your project descriptions, images, and content.
+   - Modify the HTML in `index.html` to update your project descriptions, images and content.
   
    - Adjust the CSS in the `style.css` file to change the styling and appearance of the website.
   
