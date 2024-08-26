@@ -115,8 +115,5 @@
 
 - Enjoy showcasing your work and experiences!
 
-<div align="right">
- 
-<a href="#header"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/arrow.png" width="4%"></a>
-
-</div>
+| [Scroll to Top ⬆️](#) |
+|:---:|
