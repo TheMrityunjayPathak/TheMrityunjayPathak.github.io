@@ -73,18 +73,16 @@
 - To run this website locally on your computer, follow these steps :
 
 1. Clone this repository to your local machine using Git : 
-
    ```bash
    git clone https://github.com/TheMrityunjayPathak/TheMrityunjayPathak.github.io.git
    ```
 
 2. Navigate to the project directory :
-
    ```bash
    cd your-portfolio
    ```
 
-3. Open the `index.html` file in your preferred web browser. 
+3. Open the file in your preferred web browser. 
 
 ## Usage
 
@@ -92,11 +90,11 @@
 
 - To customize the website :
 
-   - Modify the HTML in `index.html` to update your project descriptions, images and content.
+   - Modify the HTML in the file to update your project descriptions, images and content.
   
-   - Adjust the CSS in the `style.css` file to change the styling and appearance of the website.
+   - Adjust the CSS in the file to change the styling and appearance of the website.
   
-   - Utilize JavaScript in the `index.html` file for any interactive features you wish to add.
+   - Utilize JavaScript in the file for any interactive features you wish to add.
 
 ## Technologies
 
