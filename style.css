@@ -375,6 +375,13 @@
       color: #4c89f8;
     }
 
+    .projects .projects-card img {
+      max-width: 100%;
+      margin: 10px 0;
+      border: 2px solid gainsboro;
+      border-radius: 6px;
+    }
+
     .project.expanded .projects-card {
       display: block;
     }
@@ -1035,6 +1042,11 @@
         display: none;
         padding: 20px;
         margin-top: 10px;
+      }
+
+      .projects .projects-card img {
+        border-radius: 4px;
+        margin: 0;
       }
 
       .bi-project-header, .project-header {
