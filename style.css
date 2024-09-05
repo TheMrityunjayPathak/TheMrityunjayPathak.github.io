@@ -380,7 +380,7 @@
     .projects .projects-card img {
       max-width: 100%;
       margin: 10px 0;
-      border: 2px solid gainsboro;
+      border: 1px solid gainsboro;
       border-radius: 6px;
     }
 
@@ -441,7 +441,6 @@
     .bi-projects .bi-cards img {
       max-width: 100%;
       margin: 10px 0;
-      border: 2px solid gainsboro;
       border-radius: 6px;
     }
 
