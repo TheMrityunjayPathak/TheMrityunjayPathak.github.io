@@ -341,6 +341,36 @@
       font-family: "Rock Salt", cursive;
     }
 
+    .github-buttons {
+      display: flex;
+      flex-direction: row;
+      text-align: center;
+      justify-content: center;
+    }
+
+    .github-buttons .github-dev i {
+      margin-right: 8px;
+    }
+
+    .github-dev {
+      text-decoration: none;
+      padding: 6px 12px;
+      margin: 10px;
+      font-size: large;
+      font-weight: bold;
+      color: #1A2421;
+      background-color: white;
+      border: 1px solid #1A2421;
+      border-radius: 50px;
+      box-shadow: 4px 4px #272e2c;
+      transition: all 0.3s ease-in-out;
+    }
+
+    .github-dev:hover {
+      background-color: #4c89f8;
+      box-shadow: none;
+    }
+
     .project {
       cursor: pointer;
       min-width: 800px;
@@ -446,81 +476,6 @@
 
     .bi-project.expanded .bi-cards {
       display: block;
-    }
-
-    /*Notebooks Sections*/
-    .notebooks {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      max-width: 800px;
-      padding-top: 30px;
-      font-size: large;
-      color: #1A2421;
-    }
-
-    .notebooks h1 {
-      font-family: "Rock Salt", cursive;
-    }
-
-    .notebooks-card {
-      display: flex;
-      flex-direction: column;
-      min-width: 800px;
-    }
-
-    .notebooks-text {
-      flex: 1;
-      margin: 10px;
-      min-width: 800px;
-      padding-bottom: 20px;
-      text-align: center;
-      font-size: medium;
-      background-color: white;
-      border: 1px solid gainsboro;
-      border-radius: 12px;
-    }
-
-    .notebooks-text a {
-      text-decoration: none;
-      color: #1A2421;
-    }
-
-    .notebooks-text img {
-      width: 140px;
-      height: 140px;
-      padding-top: 30px;
-    }
-
-    .github-buttons {
-      display: flex;
-      flex-direction: row;
-      text-align: center;
-      justify-content: center;
-    }
-
-    .github-buttons .github-dev i {
-      margin-right: 8px;
-    }
-
-    .github-dev {
-      text-decoration: none;
-      padding: 6px 12px;
-      margin: 10px;
-      font-size: large;
-      font-weight: bold;
-      color: #1A2421;
-      background-color: white;
-      border: 1px solid #1A2421;
-      border-radius: 50px;
-      box-shadow: 4px 4px #272e2c;
-      transition: all 0.3s ease-in-out;
-    }
-
-    .github-dev:hover {
-      background-color: #4c89f8;
-      box-shadow: none;
     }
 
     /*Certificates Section*/
@@ -1036,6 +991,16 @@
         font-family: "Rock Salt", cursive;
       }
 
+      .github-buttons {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+      }
+
+      .github-dev {
+        font-size: medium;
+      }
+
       .project {
         width: 100%;
         min-width: auto;
@@ -1085,43 +1050,6 @@
       .bi-projects .bi-cards img {
         border-radius: 4px;
         margin: 0;
-      }
-
-      /*Notebooks Section*/
-      .notebooks {
-        width: 96%;
-        max-width: auto;
-        padding-top: 15px;
-      }
-
-      .notebooks h1 {
-        font-size: x-large;
-        font-family: "Rock Salt", cursive;
-      }
-
-      .notebooks-card {
-        width: 100%;
-        min-width: auto;
-      }
-
-      .notebooks-text {
-        min-width: 90%;
-        font-size: small;
-      }
-
-      .notebooks-text img {
-        width: 35%;
-        height: 35%;
-      }
-
-      .github-buttons {
-        display: flex;
-        flex-direction: column;
-        text-align: center;
-      }
-
-      .github-dev {
-        font-size: medium;
       }
 
       /*Certificates Section*/
