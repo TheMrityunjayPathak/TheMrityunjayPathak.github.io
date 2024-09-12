@@ -1,6 +1,6 @@
 ## Mrityunjay Pathak
 
-<a href="https://themrityunjaypathak.github.io/"><img src="https://github.com/user-attachments/assets/23052054-cbd8-42ab-a703-c7e7f701b873"></a>
+<a href="https://themrityunjaypathak.github.io/"><img src="https://github.com/user-attachments/assets/df1fffd0-2342-493b-8ff1-e9fd034ea21c"></a>
 
 ## Table of Contents
 - [Overview](#overview)
