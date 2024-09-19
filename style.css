@@ -44,7 +44,7 @@
       font-size: medium;
       color: #1A2421;
       background-color: white;
-      border: 1px solid #1A2421;
+      border: 2px solid #1A2421;
       border-radius: 50px;
       box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.3);
       transition: all 0.3s ease-in-out;
@@ -143,7 +143,7 @@
       font-family: "Poiret One", sans-serif;
       background-color: white;
       color: #1A2421;
-      border: 1px solid #1A2421;
+      border: 2px solid #1A2421;
       border-radius: 100px;
       padding: 6px 12px;
       box-shadow: 4px 4px #272e2c;
@@ -229,7 +229,7 @@
       padding: 2.5px;
       border-radius: 100px;
       background-color: white;
-      border: 1px solid #1A2421;
+      border: 2px solid #1A2421;
       transform: translateY(38px);
     }
 
@@ -266,7 +266,7 @@
       margin: 0 10px;
       color: #1A2421;
       background-color: white;
-      border: 1px solid #1A2421;
+      border: 2px solid #1A2421;
       border-radius: 50px;
       box-shadow: 4px 4px #272e2c;
       transition: all 0.3s ease-in-out;
@@ -310,7 +310,7 @@
       height: 200px;
       font-weight: bold;
       background-color: white;
-      border: 1px solid gainsboro;
+      border: 2px solid gainsboro;
       border-radius: 12px;
       transition: all 0.3s ease-in-out;
     }
@@ -360,7 +360,7 @@
       font-weight: bold;
       color: #1A2421;
       background-color: white;
-      border: 1px solid #1A2421;
+      border: 2px solid #1A2421;
       border-radius: 50px;
       box-shadow: 4px 4px #272e2c;
       transition: all 0.3s ease-in-out;
@@ -377,13 +377,13 @@
       margin: 10px;
       background-color: white;
       color: #1A2421;
-      border: 1px solid gainsboro;
+      border: 2px solid gainsboro;
       border-radius: 12px;
       transition: all 0.3s ease-in-out;
     }
 
     .project:hover {
-      border: 1px solid #1A2421;
+      border: 2px solid #1A2421;
     }
 
     .project-header {
@@ -410,7 +410,7 @@
     .projects .projects-card img {
       max-width: 100%;
       margin: 10px 0;
-      border: 1px solid gainsboro;
+      border: 2px solid gainsboro;
       border-radius: 6px;
     }
 
@@ -438,13 +438,13 @@
       margin: 10px;
       background-color: white;
       color: #1A2421;
-      border: 1px solid gainsboro;
+      border: 2px solid gainsboro;
       border-radius: 12px;
       transition: all 0.3s ease-in-out;
     }
 
     .bi-project:hover {
-      border: 1px solid #1A2421;
+      border: 2px solid #1A2421;
     }
 
     .bi-project-header {
@@ -510,14 +510,14 @@
       padding-bottom: 24px;
       border-radius: 12px;
       background-color: white;
-      border: 1px solid gainsboro;
+      border: 2px solid gainsboro;
       transition: all 0.3s ease-in-out;
     }
 
     .certificates-img img {
       width: 100%;
       height: fit-content;
-      border: 1px solid gainsboro;
+      border: 2px solid gainsboro;
       border-radius: 6px;
     }
 
@@ -535,7 +535,7 @@
       padding: 6px 12px;
       color: #1A2421;
       background-color: white;
-      border: 1px solid #1A2421;
+      border: 2px solid #1A2421;
       border-radius: 50px;
       box-shadow: 4px 4px #272e2c;
       transition: all 0.3s ease-in-out;
@@ -574,14 +574,14 @@
       cursor: pointer;
       text-align: center;
       background-color: white;
-      border: 1px solid gainsboro;
+      border: 2px solid gainsboro;
       border-radius: 12px;
       transition: all 0.3s ease-in-out;
     }
 
     .achievements-img:hover {
       transform: translateY(12px);
-      border: 1px solid #1A2421;
+      border: 2px solid #1A2421;
     }
 
     .achievements-img img {
@@ -620,7 +620,7 @@
       font-size: 24px;
       color: #1A2421;
       background-color: white;
-      border: 1px solid #1A2421;
+      border: 2px solid #1A2421;
       border-radius: 50px;
       box-shadow: 4px 4px #272e2c;
       transition: all 0.3s ease-in-out;
@@ -629,7 +629,7 @@
     .post-iframe {
       min-width: 800px;
       height: 500px;
-      border: 1px solid gainsboro;
+      border: 2px solid gainsboro;
       border-radius: 6px;
     }
 
@@ -652,7 +652,7 @@
       font-weight: bold;
       color: #1A2421;
       background-color: white;
-      border: 1px solid #1A2421;
+      border: 2px solid #1A2421;
       border-radius: 50px;
       box-shadow: 4px 4px #272e2c;
       transition: all 0.3s ease-in-out;
@@ -673,7 +673,7 @@
       margin: 0 auto;
       padding-top: 40px;
       background-color: white;
-      border: 1px solid gainsboro;
+      border: 2px solid gainsboro;
       border-radius: 12px;
     }
 
@@ -739,7 +739,7 @@
       margin-bottom: 1.5rem;
       color: #1A2421;
       background-color: white;
-      border: 1px solid gainsboro;
+      border: 2px solid gainsboro;
       border-radius: 12px;
       font-weight: bold;
       transition: all 0.3s ease-in-out;
@@ -749,7 +749,7 @@
     #fs-frm select:hover,
     #fs-frm textarea:hover,
     #fs-frm:hover #card-element:hover {
-      border: 1px solid #1A2421;
+      border: 2px solid #1A2421;
     }
 
     #fs-frm input:focus,
@@ -770,11 +770,11 @@
       cursor: pointer;
       margin: 0 auto;
       opacity: 1;
-      padding: 6px 12px;
+      padding: 8px 14px;
       font-size: large;
       font-weight: bold;
       background-color: white;
-      border: 1px solid #1A2421;
+      border: 2px solid #1A2421;
       border-radius: 50px;
       box-shadow: 4px 4px #272e2c;
       transform: translate(25px, 7.5px);
@@ -828,6 +828,7 @@
       .intro-card {
         min-width: 100%;
         padding-bottom: 1.5em;
+        border: 2px solid #1A2421;
       }
   
       /*Navigation Section*/
@@ -848,7 +849,7 @@
         line-height: 0;
         font-size: large;
         background-color: white;
-        border: 1px solid #1A2421;
+        border: 2px solid #1A2421;
         border-radius: 50px;
         box-shadow: 4px 4px #272e2c;
       }
