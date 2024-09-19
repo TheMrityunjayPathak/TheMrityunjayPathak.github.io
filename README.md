@@ -24,7 +24,7 @@
 
 **CSS Background**
 
-• The stylish dotted pattern you see in hero section of the website is created CSS Backgrounds.
+• The stylish dotted pattern you see in hero section of the website is created by CSS Backgrounds.
 
 • Here you will find presets of Background Patterns made entirely by CSS.
 
@@ -70,7 +70,7 @@
 
 **Formspree**
 
-• I've included a Contact Form powered by Formspree, which ensures that reaching out to me is as easy as possible.
+• I've included a Contact Form powered by Formspree, which ensures that reaching out to anyone is as easy as possible.
 
 • It's simple and functional, without the need for complex backend technologies like PHP.
 
