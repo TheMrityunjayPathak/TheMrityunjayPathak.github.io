@@ -546,49 +546,6 @@
       box-shadow: none;
     }
 
-    /*Achievements Sections*/
-    .achievements {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      max-width: 800px;
-      padding-top: 40px;
-      font-size: large;
-      color: #1A2421;
-    }
-
-    .achievements h1 {
-      font-family: "Rock Salt", cursive;
-    }
-
-    .achievements-card {
-      display: flex;
-      min-width: 800px;
-    }
-
-    .achievements-img {
-      flex: 1;
-      padding: 50px;
-      margin: 10px;
-      cursor: pointer;
-      text-align: center;
-      background-color: white;
-      border: 2px solid gainsboro;
-      border-radius: 12px;
-      transition: all 0.3s ease-in-out;
-    }
-
-    .achievements-img:hover {
-      transform: translateY(12px);
-      border: 2px solid #1A2421;
-    }
-
-    .achievements-img img {
-      width: 130px;
-      height: auto;
-    }
-
     /*LinkedIn Post Section*/
     .linkedin-posts {
       display: flex;
@@ -1086,32 +1043,6 @@
 
       .certificate-link a {
         font-size: medium;
-      }
-
-      /*Achievements Section*/
-      .achievements {
-        width: 96%;
-        max-width: auto;
-        padding-top: 25px;
-      }
-
-      .achievements h1 {
-        font-size: x-large;
-        font-family: "Rock Salt", cursive;
-      }
-
-      .achievements-card {
-        min-width: 100%;
-      }
-
-      .achievements-img {
-        padding: 18px;
-        max-width: 100%;
-      }
-
-      .achievements-img img {
-        height: auto;
-        width: 100%;
       }
 
       /*LinkedIn Post Section*/
