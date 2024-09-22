@@ -418,66 +418,6 @@
       display: block;
     }
 
-    .bi-projects {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      max-width: 800px;
-      padding-top: 30px;
-      font-size: large;
-      color: #1A2421;
-    }
-
-    .bi-projects h1 {
-      font-family: "Rock Salt", cursive;
-    }
-    
-    .bi-project {
-      cursor: pointer;
-      min-width: 800px;
-      margin: 10px;
-      background-color: white;
-      color: #1A2421;
-      border: 2px solid gainsboro;
-      border-radius: 12px;
-      transition: all 0.3s ease-in-out;
-    }
-
-    .bi-project:hover {
-      border: 2px solid #1A2421;
-    }
-
-    .bi-project-header {
-      text-align: center;
-      font-size: medium;
-    }
-
-    .bi-cards {
-      display: none;
-      padding-left: 20px;
-      padding-right: 20px;
-      padding-bottom: 5px;
-      margin-top: 10px;
-      text-align: left;
-      font-size: larger;
-      font-weight: bold;
-      color: #1A2421;
-    }
-
-    .bi-cards a {
-      color: #4c89f8;
-    }
-
-    .bi-projects .bi-cards img {
-      max-width: 100%;
-      margin: 10px 0;
-      border-radius: 6px;
-    }
-
-    .bi-project.expanded .bi-cards {
-      display: block;
-    }
-
     /*Certificates Section*/
     .certificates {
       display: flex;
@@ -974,38 +914,6 @@
       }
 
       .projects .projects-card img {
-        border-radius: 4px;
-        margin: 0;
-      }
-
-      .bi-project-header, .project-header {
-        font-size: small;
-      }
-
-      .bi-projects {
-        width: 90%;
-        max-width: auto;
-        padding-top: 20px;
-      }
-
-      .bi-projects h1 {
-        font-size: x-large;
-        font-family: "Rock Salt", cursive;
-      }
-    
-      .bi-project {
-        min-width: auto;
-        width: 100%;
-      }
-
-      .bi-cards {
-        font-size: medium;
-        padding-left: 15px;
-        padding-right: 15px;
-        padding-bottom: 10px;
-      }
-
-      .bi-projects .bi-cards img {
         border-radius: 4px;
         margin: 0;
       }
