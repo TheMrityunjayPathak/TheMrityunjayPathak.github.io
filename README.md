@@ -83,11 +83,6 @@
    git clone https://github.com/TheMrityunjayPathak/TheMrityunjayPathak.github.io.git
    ```
 
-- Navigate to the project directory :
-   ```bash
-   cd your-portfolio
-   ```
-
 - Open the file in your preferred web browser. 
 
 ## Usage
