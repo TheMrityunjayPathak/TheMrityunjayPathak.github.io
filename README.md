@@ -12,7 +12,7 @@
 
 ## Overview
 
-- This portfolio website serves as a digital representation of my work, skills, experiences and achievements.
+- This portfolio website serves as a digital representation of my work, skills, experience and achievements.
 
 - It showcases my capability as Data Scientist and serves as a platform for potential collaborators and employers to learn more about my background and abilities.
 
