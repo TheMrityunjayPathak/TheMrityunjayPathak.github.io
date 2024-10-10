@@ -1,6 +1,6 @@
-## Mrityunjay Pathak
+<h2 align='center'>Mrityunjay Pathak</h2>
 
-<a href="https://themrityunjaypathak.github.io/"><img src="https://github.com/user-attachments/assets/df1fffd0-2342-493b-8ff1-e9fd034ea21c"></a>
+<a id='portfolio' href="https://themrityunjaypathak.github.io/"><img src="https://github.com/user-attachments/assets/df1fffd0-2342-493b-8ff1-e9fd034ea21c"></a>
 
 ## Table of Contents
 - [Overview](#overview)
@@ -112,5 +112,4 @@
 
 - You are free to use and modify the code as needed for your own portfolio website.
 
-| [Scroll to Top ⬆️](#mrityunjay-pathak) |
-|:---:|
+**[`^        Scroll to Top       ^`](#portfolio)**
