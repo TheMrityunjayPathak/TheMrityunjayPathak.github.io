@@ -14,7 +14,7 @@
 
 - This portfolio website serves as a digital representation of my work, skills, experience and achievements.
 
-- It showcases my capability as Data Scientist and serves as a platform for potential collaborators and employers to learn more about my background and abilities.
+- It showcases my capability as a Data Scientist and serves as a platform for potential collaborators and employers to learn more about my background and abilities.
 
 - This website is created using HTML, CSS and JavaScript with incorporating Google Fonts, IonIcons, CSS Background, Flaticons, DesignStripe and much more.
 
