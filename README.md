@@ -24,9 +24,9 @@
 
 **CSS Background**
 
-• The stylish dotted pattern you see in hero section of the website is created by CSS Backgrounds.
+• The stylish dotted patterns in the hero section of the website is created by using CSS Backgrounds.
 
-• Here you will find presets of Background Patterns made entirely by CSS.
+• Here you will find presets of background patterns made entirely by CSS.
 
 • You can edit colors and size of the pattern and copy it as CSS or download PNG image of the pattern.
 
@@ -38,11 +38,11 @@
 
 **DesignStripe**
 
-• The illustration you see in the hero section of the website is downloaded from DesignStripe.
+• The illustration in the hero section of the website is downloaded from DesignStripe.
 
 • They provide illustration with different theme of very high quality to download for free. 
 
-• You can also download it as PNG or SVG with transparent background.
+• You can download it as PNG or SVG with transparent background.
 
 **Link of DesignStripe** : [DesignStripe](https://designstripe.com/)
 
@@ -70,7 +70,7 @@
 
 **Formspree**
 
-• I've included a Contact Form powered by Formspree, which ensures that reaching out to anyone is as easy as possible.
+• I've included a contact form powered by Formspree, which ensures that reaching out to anyone is as easy as possible.
 
 • It's simple and functional, without the need for complex backend technologies like PHP.
 
@@ -78,7 +78,7 @@
 
 ## Installation
 
-- Clone the repository to your local machine using the following command :
+- Clone this repository to your local machine by using the following command :
    ```bash
    git clone https://github.com/TheMrityunjayPathak/TheMrityunjayPathak.github.io.git
    ```
@@ -87,7 +87,7 @@
 
 ## Usage
 
-- Customize it with your own projects, content and contact details.
+- Customize it with your own projects, skills and contact details.
 
 - To customize the website :
 
@@ -112,7 +112,7 @@
 
 - You are free to use and modify the code as needed for your own portfolio website.
 
-<div align='right'>
+<div align='left'>
   
 **[`^        Scroll to Top       ^`](#portfolio)**
 
