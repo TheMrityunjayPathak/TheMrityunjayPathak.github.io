@@ -79,10 +79,11 @@
 ## Installation
 
 - Clone this repository to your local machine by using the following command :
-   ```bash
+
+  ```bash
    git clone https://github.com/TheMrityunjayPathak/TheMrityunjayPathak.github.io.git
    ```
-
+   
 ## Usage
 
 - Customize this website with your own projects, skills and contact details.
