@@ -83,19 +83,17 @@
    git clone https://github.com/TheMrityunjayPathak/TheMrityunjayPathak.github.io.git
    ```
 
-- Open the file in your preferred web browser. 
-
 ## Usage
 
-- Customize it with your own projects, skills and contact details.
+- Customize this website with your own projects, skills and contact details.
 
 - To customize the website :
 
-   - Modify the HTML in the file to update your project descriptions, images and content.
+   - Modify the HTML file to update your project descriptions, images and content.
   
-   - Adjust the CSS in the file to change the styling and appearance of the website.
+   - Adjust the CSS file to change the styling and appearance of the website.
   
-   - Utilize JavaScript in the file for any interactive features you wish to add.
+   - Utilize JavaScript file for any interactive features you wish to add.
 
 ## Technologies
 
