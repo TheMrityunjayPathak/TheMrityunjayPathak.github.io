@@ -577,7 +577,61 @@
       box-shadow: none;
     }
 
-    /*Contact Me Section*/
+    /*blogs Section*/
+    .blogs {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      max-width: 800px;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      font-size: large;
+      color: #1A2421;
+    }
+
+    .blogs h1 {
+      font-family: "Rock Salt", cursive;
+    }
+
+    .blogs-card {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 18px;
+      padding-top: 20px;
+      min-width: 800px;
+    }
+
+    .blogs-img {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 8px 10px 4px 8px;
+      background-color: white;
+      border: 2px solid gainsboro;
+      border-radius: 12px;
+      transition: all 0.3s ease-in-out;
+    }
+
+    .blogs-img img {
+      width: 100%;
+      height: auto;
+      border: 2px solid gainsboro;
+      border-radius: 6px;
+    }
+
+    .blogs-detail {
+      font-weight: bold;
+      padding: 10px 0px 10px 0;
+    }
+
+    .blogs-img:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.15);
+    }
+
+    /*Contact me Section*/
     .contact {
       display: flex;
       flex-direction: column;
@@ -1012,6 +1066,45 @@
         font-size: medium;
         font-weight: bold;
         margin: 10px auto;
+      }
+
+      /*Blogs Section*/
+      .blogs {
+        width: 96%;
+        max-width: auto;
+        font-size: small;
+        padding-bottom: 25px;
+        padding-top: 0px;
+      }
+
+      .blogs h1 {
+        font-size: x-large;
+        font-family: "Rock Salt", cursive;
+      }
+
+      .blogs-card {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 93%;
+        min-width: auto;
+        padding-top: 0;
+      }
+
+      .blogs-img {
+        padding: 8px 10px 4px 8px;
+      }
+
+      .blogs-img img {
+        width: 100%;
+        height: auto;
+      }
+
+      .blogs-detail {
+        font-weight: bold;
+        font-size: medium;
+        padding: 8px 0px 8px 0;
       }
 
       /*Contact Me Section*/
