@@ -51,7 +51,6 @@
     }
 
     #btn-back-to-top:hover {
-      background-color: #4c89f8;
       box-shadow: none;
     }
 
@@ -151,7 +150,6 @@
     }
 
     .main-links a:hover {
-      background-color: #4c89f8;
       box-shadow: none;
     }
 
@@ -272,7 +270,6 @@
     }
 
     .contact-buttons a:hover {
-      background-color: #4c89f8;
       box-shadow: none;
     }
 
@@ -372,7 +369,6 @@
     }
 
     .github-dev:hover {
-      background-color: #4c89f8;
       box-shadow: none;
     }
 
@@ -457,7 +453,6 @@
       border-radius: 12px;
       background-color: white;
       border: 2px solid gainsboro;
-      transition: all 0.3s ease-in-out;
     }
 
     .certificates-img img {
@@ -465,13 +460,6 @@
       height: fit-content;
       border: 2px solid gainsboro;
       border-radius: 6px;
-      transition: all 0.3s ease-in-out;
-    }
-
-    .certificates-img img:hover {
-      cursor: pointer;
-      transform: translateY(-5px);
-      box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.15);
     }
 
     .certificate-link {
@@ -495,7 +483,6 @@
     }
 
     .certificate-link a:hover {
-      background-color: #4c89f8;
       box-shadow: none;
     }
 
@@ -549,7 +536,6 @@
 
     .prev-button:hover,
     .next-button:hover {
-      background-color: #4c89f8;
       box-shadow: none;
     }
 
@@ -573,7 +559,6 @@
     }
 
     .follow-button:hover {
-      background-color: #4c89f8;
       box-shadow: none;
     }
 
@@ -751,7 +736,6 @@
 
     #fs-frm [type="button"]:hover,
     #fs-frm [type="submit"]:hover {
-      background-color: #4c89f8;
       box-shadow: none;
     }
 
@@ -823,7 +807,6 @@
       }
 
       .imp-links a:hover {
-        background-color: #4c89f8;
         box-shadow: none;
         color: #1A2421;
       }
