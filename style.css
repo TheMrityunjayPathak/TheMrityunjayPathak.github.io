@@ -767,14 +767,14 @@
         bottom: 30px;
         right: 30px;
         padding: 12px 6px;
-        border: 1px solid #1A2421;
+        border: 2px solid #1A2421;
       }
   
       /*Intro Section*/
       .intro-card {
         min-width: 100%;
         padding-bottom: 1.5em;
-        border: 1px solid #1A2421;
+        border: 2px solid #1A2421;
       }
   
       /*Navigation Section*/
@@ -795,7 +795,7 @@
         line-height: 0;
         font-size: large;
         background-color: white;
-        border: 1px solid #1A2421;
+        border: 2px solid #1A2421;
         border-radius: 50px;
         box-shadow: 4px 4px #1A2421;
       }
@@ -824,7 +824,6 @@
 
       .main-links a {
         font-size: medium;
-        border: 1px solid #1A2421;
       }
 
       .main-image img {
@@ -868,7 +867,6 @@
         height: auto;
         padding: 2.5px;
         transform: none;
-        border: 1px solid #1A2421;
       }
   
       .about-text {
@@ -891,7 +889,6 @@
         font-size: medium;
         margin: 0 8px;
         padding: 8px 10px;
-        border: 1px solid #1A2421;
       }
 
       .button-text-hide {
@@ -921,7 +918,6 @@
       .grid-item {
         width: 38%;
         height: 100px;
-        border: 1px solid rgb(190, 190, 190);
       }
       
       .grid-item img {
@@ -949,7 +945,6 @@
 
       .github-dev {
         font-size: medium;
-        border: 1px solid #1A2421;
       }
 
       .project-header {
@@ -960,7 +955,6 @@
         width: 100%;
         min-width: auto;
         font-size: small;
-        border: 1px solid rgb(190, 190, 190);
       }
 
       .projects-card {
@@ -974,7 +968,6 @@
       .projects .projects-card img {
         border-radius: 4px;
         margin: 0;
-        border: 1px solid rgb(190, 190, 190);
       }
 
       /*Certificates Section*/
@@ -1001,18 +994,15 @@
         margin: 10px;
         padding: 10px;
         padding-bottom: 25px;
-        border: 1px solid rgb(190, 190, 190);
       }
 
       .certificates-img img {
         width: 100%;
         height: auto;
-        border: 1px solid rgb(190, 190, 190);
       }
 
       .certificate-link a {
         font-size: medium;
-        border: 1px solid #1A2421;
       }
 
       /*LinkedIn Post Section*/
@@ -1032,7 +1022,6 @@
 
       .post-button {
         max-width: 100%;
-        border: 1px solid #1A2421;
       }
 
       .post-container {
@@ -1041,7 +1030,6 @@
 
       .post-iframe {
         min-width: 100%;
-        border: 1px solid rgb(190, 190, 190);
       }
 
       .post-button {
@@ -1055,7 +1043,6 @@
         font-size: medium;
         font-weight: bold;
         margin: 10px auto;
-        border: 1px solid #1A2421;
       }
 
       /*Blogs Section*/
@@ -1084,13 +1071,11 @@
 
       .blogs-img {
         padding: 8px 10px 4px 8px;
-        border: 1px solid rgb(190, 190, 190);
       }
 
       .blogs-img img {
         width: 100%;
         height: auto;
-        border: 1px solid rgb(190, 190, 190);
       }
 
       .blogs-detail {
@@ -1108,7 +1093,6 @@
         min-width: 120%;
         max-width: 120%;
         transform: translateX(-9%);
-        border: 1px solid rgb(190, 190, 190);
       }
 
       .contact-me h1 {
@@ -1128,19 +1112,6 @@
         transform: translateX(-28px);
       }
 
-      #fs-frm input,
-      #fs-frm select,
-      #fs-frm textarea,
-      #fs-frm #card-element {
-        border: 1px solid rgb(190, 190, 190);
-      }
-
-      #fs-frm input:hover,
-      #fs-frm select:hover,
-      #fs-frm textarea:hover {
-        border: 1px solid #1A2421;
-      }
-
       #fs-frm [type="text"],
       #fs-frm [type="email"] {
         width: 100%;
@@ -1150,7 +1121,6 @@
       #fs-frm [type="submit"] {
         width: auto;
         transform: translate(25px, 7.5px);
-        border: 1px solid #1A2421;
       }
   
       }
