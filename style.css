@@ -12,7 +12,7 @@
       overflow-x: hidden;
       margin: 0 auto;
       padding: 4em;
-      background-color: white;
+      background-color: whitesmoke;
       font-family: "Poiret One", sans-serif;
     }
 
@@ -43,7 +43,7 @@
       padding: 12px 6px;
       font-size: medium;
       color: #1A2421;
-      background-color: white;
+      background-color: whitesmoke;
       border: 2px solid #1A2421;
       border-radius: 50px;
       box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.3);
@@ -140,7 +140,7 @@
       font-weight: bold;
       font-size: large;
       font-family: "Poiret One", sans-serif;
-      background-color: white;
+      background-color: whitesmoke;
       color: #1A2421;
       border: 2px solid #1A2421;
       border-radius: 100px;
@@ -225,7 +225,7 @@
       margin: 0 auto;
       padding: 2.5px;
       border-radius: 100px;
-      background-color: white;
+      background-color: whitesmoke;
       border: 2px solid #1A2421;
       transform: translateY(25px);
     }
@@ -262,7 +262,7 @@
       padding: 6px 12px;
       margin: 0 10px;
       color: #1A2421;
-      background-color: white;
+      background-color: whitesmoke;
       border: 2px solid #1A2421;
       border-radius: 50px;
       box-shadow: 4px 4px #1A2421;
@@ -306,7 +306,7 @@
       width: 180px;
       height: 200px;
       font-weight: bold;
-      background-color: white;
+      background-color: whitesmoke;
       border: 2px solid rgb(190, 190, 190);
       border-radius: 12px;
       transition: all 0.3s ease-in-out;
@@ -361,7 +361,7 @@
       font-size: large;
       font-weight: bold;
       color: #1A2421;
-      background-color: white;
+      background-color: whitesmoke;
       border: 2px solid #1A2421;
       border-radius: 50px;
       box-shadow: 4px 4px #1A2421;
@@ -376,7 +376,7 @@
       cursor: pointer;
       min-width: 800px;
       margin: 10px;
-      background-color: white;
+      background-color: whitesmoke;
       color: #1A2421;
       border: 2px solid rgb(190, 190, 190);
       border-radius: 12px;
@@ -451,7 +451,7 @@
       padding: 12px;
       padding-bottom: 24px;
       border-radius: 12px;
-      background-color: white;
+      background-color: whitesmoke;
       border: 2px solid rgb(190, 190, 190);
     }
 
@@ -475,7 +475,7 @@
       font-weight: bold;
       padding: 6px 12px;
       color: #1A2421;
-      background-color: white;
+      background-color: whitesmoke;
       border: 2px solid #1A2421;
       border-radius: 50px;
       box-shadow: 4px 4px #1A2421;
@@ -520,7 +520,7 @@
       padding: 6px 8px;
       font-size: 24px;
       color: #1A2421;
-      background-color: white;
+      background-color: whitesmoke;
       border: 2px solid #1A2421;
       border-radius: 50px;
       box-shadow: 4px 4px #1A2421;
@@ -551,7 +551,7 @@
       margin: 10px auto;
       font-weight: bold;
       color: #1A2421;
-      background-color: white;
+      background-color: whitesmoke;
       border: 2px solid #1A2421;
       border-radius: 50px;
       box-shadow: 4px 4px #1A2421;
@@ -593,7 +593,7 @@
       align-items: center;
       justify-content: center;
       padding: 8px 10px 4px 8px;
-      background-color: white;
+      background-color: whitesmoke;
       border: 2px solid rgb(190, 190, 190);
       border-radius: 12px;
       transition: all 0.3s ease-in-out;
@@ -625,7 +625,7 @@
       min-width: 800px;
       margin: 0 auto;
       padding-top: 40px;
-      background-color: white;
+      background-color: whitesmoke;
       border: 2px solid rgb(190, 190, 190);
       border-radius: 12px;
     }
@@ -683,6 +683,12 @@
       color: #1A2421;
       font-size: 100%;
     }
+
+    #fs-frm input::placeholder, 
+    #fs-frm textarea::placeholder {
+      color: #1A2421;
+      opacity: 0.5;
+    }
     
     #fs-frm input,
     #fs-frm select,
@@ -691,7 +697,7 @@
       padding: .75em 1rem;
       margin-bottom: 1.5rem;
       color: #1A2421;
-      background-color: white;
+      background-color: whitesmoke;
       border: 2px solid rgb(190, 190, 190);
       border-radius: 12px;
       font-weight: bold;
@@ -719,7 +725,7 @@
       padding: 8px 14px;
       font-size: large;
       font-weight: bold;
-      background-color: white;
+      background-color: whitesmoke;
       border: 2px solid #1A2421;
       border-radius: 50px;
       box-shadow: 4px 4px #1A2421;
@@ -794,7 +800,7 @@
         padding: 8px;
         line-height: 0;
         font-size: large;
-        background-color: white;
+        background-color: whitesmoke;
         border: 2px solid #1A2421;
         border-radius: 50px;
         box-shadow: 4px 4px #1A2421;
