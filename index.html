@@ -284,11 +284,11 @@
   <br><br>
   ➩ Trend Analysis : Are there observable trends in the release of TV Shows and Movies over time? How has the number of new additions to Netflix's library evolved?
   <br><br>
-  ➩ Genre Popularity : What are the most and least popular genres in Netflix’s library? How does genre popularity differ by region or over time?
+  ➩ Genre Popularity : What are the most and least popular genres in Netflix's library? How does genre popularity differ by region or over time?
   <br><br>
   ➩ Content Characteristics : What are the typical characteristics (e.g., duration, rating) of TV Shows vs Movies? How do these characteristics vary by genre or release year?
   <br><br>
-  ➩ Regional Diversity : How diverse is Netflix’s content offering in terms of geographic origin? Are there particular regions that contribute more significantly to Netflix’s library?
+  ➩ Regional Diversity : How diverse is Netflix's content offering in terms of geographic origin? Are there particular regions that contribute more significantly to Netflix's library?
   <br><br>
   • This analysis will provide a deeper understanding of Netflix content library, revealing trends and patterns that can address future content strategy and development.
   <br><br>
@@ -333,17 +333,17 @@
   <br><br>
   • This Exploratory Data Analysis (EDA) aims to address the following key questions :
   <br><br>
-  ➩ Customer Behavior Analysis : What are the purchasing patterns of customers based on different categories and sub-categories? How does customer spending vary across cities and states?
+  ➩ Customer Behavior Analysis : What are the purchasing patterns of customers based on different categories and sub categories? How does customer spending vary across cities and states?
   <br><br>
   ➩ Sales Trends : Are there observable trends in sales over time? How do sales figures fluctuate across different months or seasons?
   <br><br>
   ➩ Discount Impact : What is the relationship between discounts and sales? How do discounts influence the profit margins across different categories and regions?
   <br><br>
-  ➩ Profit Analysis : What are the profit margins associated with various product categories and sub-categories? How do these margins vary by city and state?
+  ➩ Profit Analysis : What are the profit margins associated with various product categories and sub categories? How do these margins vary by city and state?
   <br><br>
   ➩ Regional Performance : How do sales and profit performance differ across different regions and states? Are there specific regions that contribute more significantly to overall sales and profits?
   <br><br>
-  ➩ Category Insights : What are the most and least popular product categories and sub-categories? How does the popularity of these categories vary by location and over time?
+  ➩ Category Insights : What are the most and least popular product categories and sub categories? How does the popularity of these categories vary by location and over time?
   <br><br>
   • This analysis will provide a deeper understanding of supermarket sales dynamics revealing trends and patterns that can inform inventory management, promotional strategies and regional marketing efforts.
   <br><br>
@@ -380,34 +380,13 @@
   </div>
 </div>
 
-<!--LinkedIn Post Section-->
-<div class="linkedin-posts">
-  <h1>LinkedIn Featured</h1>
-  <div class="post-buttons">
-
-    <div class="post-container">
-      <button class="post-button prev-button" onclick="togglePost(-1)"><i class="fas fa-arrow-left"></i></button>
-      <button class="post-button next-button" onclick="togglePost(1)"><i class="fas fa-arrow-right"></i></button>
-    </div>
-
-    <div class="post-iframe-wrapper">
-      <iframe class="post-iframe" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7173265564721668097" frameborder="0"></iframe>
-    </div>
-
-    <a class="follow-button"
-      href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=themrityunjaypathak" target="_blank">Follow me on LinkedIn
-    </a>
-
-  </div>
-</div>
-
 <!--Blogs Section-->
 <div class="blogs" id="blogs">
   <h1>Blogs</h1>
   <div class="blogs-card">
 
     <div class="blogs-img">
-      <a href="https://medium.com/@themrityunjaypathak/simple-linear-regression-an-overview-8bfe6614ede8">
+      <a href="https://medium.com/@themrityunjaypathak/simple-linear-regression-an-overview-8bfe6614ede8" target="_blank">
         <img src="Assets/blog-1.png">
       </a>
       <div class="blogs-detail">
@@ -416,7 +395,7 @@
     </div>
 
     <div class="blogs-img">
-      <a href="https://medium.com/@themrityunjaypathak/multiple-linear-regression-an-overview-5d0283d31f3f">
+      <a href="https://medium.com/@themrityunjaypathak/multiple-linear-regression-an-overview-5d0283d31f3f" target="_blank">
         <img src="Assets/blog-2.png">
       </a>
       <div class="blogs-detail">
@@ -518,24 +497,6 @@ biProjects.forEach(biProject => {
     });
   });
 });
-</script>
-
-<!--LinkedIn Toogle Section-->
-<script>
-  const postUrls = [
-    "https://www.linkedin.com/embed/feed/update/urn:li:share:7173265564721668097",
-    "https://www.linkedin.com/embed/feed/update/urn:li:share:7176143130952429570",
-  ];
-  let currentPostIndex = 0;
-  const iframe = document.querySelector(".post-iframe");
-  function togglePost(direction) {
-    currentPostIndex = (currentPostIndex + direction + postUrls.length) % postUrls.length;
-    updateIframeSrc();
-  }
-  function updateIframeSrc() {
-    iframe.src = postUrls[currentPostIndex];
-  }
-  updateIframeSrc();
 </script>
 
 </body>
