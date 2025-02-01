@@ -11,9 +11,9 @@
       justify-content: center;
       overflow-x: hidden;
       margin: 0 auto;
-      padding: 4em;
-      background-color: white;
       font-family: "Poiret One", sans-serif;
+      background-color: white;
+      padding: 4em;
     }
 
     body::-webkit-scrollbar {
@@ -183,11 +183,11 @@
 
     .social-links a {
       text-decoration: none;
+      font-size: large;
+      font-weight: bold;
       margin: 0 8px;
       padding: 4px 8px;
       color: #1A2421;
-      font-size: large;
-      font-weight: bold;
       transition: all 0.3s ease-in-out;
     }
 
@@ -224,9 +224,9 @@
       height: 200px;
       margin: 0 auto;
       padding: 2.5px;
-      border-radius: 100px;
       background-color: white;
       border: 2px solid #1A2421;
+      border-radius: 100px;
       transform: translateY(25px);
     }
 
@@ -356,10 +356,10 @@
 
     .github-dev {
       text-decoration: none;
-      padding: 6px 12px;
-      margin: 10px;
       font-size: large;
       font-weight: bold;
+      padding: 6px 12px;
+      margin: 10px;
       color: #1A2421;
       background-color: white;
       border: 2px solid #1A2421;
@@ -450,9 +450,9 @@
       margin: 12px;
       padding: 12px;
       padding-bottom: 24px;
-      border-radius: 12px;
       background-color: white;
       border: 2px solid rgb(190, 190, 190);
+      border-radius: 12px;
     }
 
     .certificates-img img {
@@ -486,83 +486,7 @@
       box-shadow: none;
     }
 
-    /*LinkedIn Post Section*/
-    .linkedin-posts {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      padding-top: 50px;
-      max-width: 800px;
-      font-size: large;
-      color: #1A2421;
-    }
-
-    .linkedin-posts h1 {
-      font-family: "Rock Salt", cursive;
-    }
-
-    .post-buttons {
-      transform: translateY(-20px);
-    }
-
-    .post-container {
-      display: flex;
-      min-width: 800px;
-    }
-
-    .post-button {
-      display: flex;
-      justify-content: space-between;
-      max-width: 800px;
-      cursor: pointer;
-      margin: 20px auto;
-      padding: 6px 8px;
-      font-size: 24px;
-      color: #1A2421;
-      background-color: white;
-      border: 2px solid #1A2421;
-      border-radius: 50px;
-      box-shadow: 4px 4px #1A2421;
-      transition: all 0.3s ease-in-out;
-    }
-
-    .post-iframe {
-      min-width: 800px;
-      height: 500px;
-      border: 2px solid rgb(190, 190, 190);
-      border-radius: 6px;
-    }
-
-    .prev-button:hover,
-    .next-button:hover {
-      box-shadow: none;
-    }
-
-    .follow-button {
-      display: flex;
-      flex-direction: row;
-      justify-content: center;
-      align-items: center;
-      text-align: center;
-      text-decoration: none;
-      font-size: large;
-      height: 50px;
-      margin: 10px auto;
-      font-weight: bold;
-      color: #1A2421;
-      background-color: white;
-      border: 2px solid #1A2421;
-      border-radius: 50px;
-      box-shadow: 4px 4px #1A2421;
-      transition: all 0.3s ease-in-out;
-    }
-
-    .follow-button:hover {
-      box-shadow: none;
-    }
-
-    /*blogs Section*/
+    /*Blogs Section*/
     .blogs {
       display: flex;
       flex-direction: column;
@@ -612,8 +536,8 @@
     }
 
     .blogs-img:hover {
-      transform: translateY(-5px);
       box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.15);
+      transform: translateY(-5px);
     }
 
     /*Contact me Section*/
@@ -631,10 +555,10 @@
     }
 
     .contact-me h1 {
+      font-family: "Rock Salt", cursive;
       padding-top: 30px;
       padding-bottom: 10px;
       color: #1A2421;
-      font-family: "Rock Salt", cursive;
     }
 
     /*Form Section*/
@@ -658,13 +582,13 @@
     #fs-frm #card-element:disabled {
       display: block;
       border: none;
-      width: 100%;
-      padding: 0;
-      margin: auto 12px;
-      color: #1A2421;
       font-size: 100%;
       font-weight: bold;
       font-family: "Poiret One", sans-serif;
+      color: #1A2421;
+      width: 100%;
+      padding: 0;
+      margin: auto 12px;
     }
 
     #fs-frm #message {
@@ -680,8 +604,8 @@
       font-size: .825rem;
       margin-bottom: .5rem;
       padding-top: .2rem;
-      color: #1A2421;
       font-size: 100%;
+      color: #1A2421;
     }
 
     #fs-frm input::placeholder, 
@@ -701,6 +625,7 @@
       border: 2px solid rgb(190, 190, 190);
       border-radius: 12px;
       font-weight: bold;
+      box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.15);
       transition: all 0.3s ease-in-out;
     }
 
@@ -718,13 +643,13 @@
     #fs-frm [type="button"],
     #fs-frm [type="submit"] {
       font-family: "Poiret One", sans-serif;
+      font-size: large;
+      font-weight: bold;
       width: auto;
       cursor: pointer;
       margin: 0 auto;
       opacity: 1;
       padding: 8px 14px;
-      font-size: large;
-      font-weight: bold;
       background-color: white;
       border: 2px solid #1A2421;
       border-radius: 50px;
