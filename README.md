@@ -16,8 +16,6 @@
 
 - It provides a platform for potential collaborators and employers to explore more about me.
 
-- This website is created using HTML/CSS/JavaScript while incorporating Google Fonts, Flaticons, DesignStripe and much more.
-
 [Feedback from the Community »](https://www.kaggle.com/discussions/accomplishments/520952)
 
 ## Features
