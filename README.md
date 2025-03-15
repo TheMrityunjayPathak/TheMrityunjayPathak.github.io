@@ -70,7 +70,7 @@
 
 **Formspree**
 
-• I've included a contact form powered by Formspree, which ensures that reaching out to anyone is as easy as possible.
+• I've included a contact form powered by Formspree, which ensures that reaching out to me is as easy as possible.
 
 • It's simple and functional, without the need for complex backend technologies like PHP.
 
