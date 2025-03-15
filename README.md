@@ -14,9 +14,9 @@
 
 - This portfolio website serves as a digital representation of my work, skills, experience and achievements.
 
-- It showcases my capability as a Data Scientist and serves as a platform for potential collaborators and employers to learn more about my background and abilities.
+- It showcases my ability as a Data Scientist and serves as a space for potential collaborators and employers to explore more about me.
 
-- This website is created using HTML, CSS and JavaScript with incorporating Google Fonts, IonIcons, CSS Background, Flaticons, DesignStripe and much more.
+- This website is created using HTML, CSS and JavaScript with incorporating Google Fonts, CSS Background, Flaticons, DesignStripe and much more.
 
 [Feedback from the Community »](https://www.kaggle.com/discussions/accomplishments/520952)
 
