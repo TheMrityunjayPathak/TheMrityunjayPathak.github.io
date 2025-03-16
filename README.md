@@ -20,7 +20,7 @@
 
 ## Features
 
-**CSS Background**
+**CSS Backgrounds**
 
 • The stylish dotted patterns in the hero section of the website is created by using CSS Backgrounds.
 
@@ -30,7 +30,7 @@
 
 • It adds a modern and professional touch to the overall website.
 
-**Link of CSS Backgrounds** : [CSS Backgrounds by Magic Patterns](https://www.magicpattern.design/tools/css-backgrounds)
+**Link of CSS Backgrounds** : [CSS Backgrounds](https://www.magicpattern.design/tools/css-backgrounds)
 
 ---
 
@@ -38,7 +38,7 @@
 
 • The illustration in the hero section of the website is downloaded from DesignStripe.
 
-• They provide illustration with different theme of very high quality to download for free. 
+• They provide illustrations with different theme of very high quality to download it for free. 
 
 • You can download it as PNG or SVG with transparent background.
 
@@ -99,8 +99,12 @@ git clone https://github.com/TheMrityunjayPathak/TheMrityunjayPathak.github.io.g
 
 | HTML | CSS | JavaScript | Google Fonts |
 | :---: | :---: | :---: | :---: |
+
 | Font Awesome | Ion Icons | Flaticons | CSS Background |
+| :---: | :---: | :---: | :---: |
+
 | DesignStripe | Formspree | Color Hunt | W3School |
+| :---: | :---: | :---: | :---: |
 
 ## License
 
