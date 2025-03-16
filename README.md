@@ -60,7 +60,7 @@
 
 • I've made sure the website is easy to navigate with the help of Flaticons.
 
-• These icons are visually appealing and are free to use in PNG or SVG Formats in any size.
+• These icons are visually appealing and are free to use in PNG or SVG format in any size.
 
 **Link of Flaticons** : [Flaticons](https://www.flaticon.com/)
 
