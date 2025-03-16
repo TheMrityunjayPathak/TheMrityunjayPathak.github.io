@@ -38,7 +38,7 @@
 
 • The illustration in the hero section of the website is downloaded from DesignStripe.
 
-• They provide illustrations with different theme of very high quality to download it for free. 
+• They provide illustrations with different theme of very high quality to download for free. 
 
 • You can download it as PNG or SVG with transparent background.
 
