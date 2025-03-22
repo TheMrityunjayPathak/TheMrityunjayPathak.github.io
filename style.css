@@ -201,7 +201,6 @@
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      margin: 0 auto;
       font-size: large;
       color: #1A2421;
     }
@@ -212,30 +211,21 @@
 
     .about-section {
       display: flex;
-      flex-direction: row;
+      flex-direction: column;
       max-width: 800px;
-    }
-
-    .about-image img {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      width: auto;
-      height: 200px;
-      margin: 0 auto;
-      padding: 2.5px;
+      gap: 15px;
+      border: 2px dashed rgb(190, 190, 190);
+      border-radius: 12px;
       background-color: white;
-      border: 2px solid #1A2421;
-      border-radius: 100px;
-      transform: translateY(25px);
+      padding: 20px;
+      box-sizing: border-box;
+      overflow: hidden;
     }
 
     .about-text {
       display: flex;
-      align-items: center;
-      justify-content: center;
-      margin: 0 auto;
-      padding-left: 50px;
+      align-items: flex-start;
+      justify-content: flex-start;
       font-size: larger;
       text-align: left;
       font-weight: bold;
@@ -243,34 +233,26 @@
     }
 
     .contact-buttons {
-      display: flex;
-      flex-direction: row;
-      align-items: center;
-      justify-content: center;
-      margin: 0 auto;
-      padding-left: 3em;
-      transform: translateY(-25px);
-    }
-
-    .contact-buttons .ctc-btn i {
-      margin-right: 8px;
+      display: grid;
+      grid-template-columns: repeat(10, 1fr);
+      justify-content: flex-start;
+      align-items: flex-start;
+      gap: 4px;
     }
 
     .contact-buttons a {
       text-decoration: none;
-      font-weight: bold;
-      padding: 6px 12px;
-      margin: 0 10px;
+      padding: 4px;
+      margin-right: 10px;
       color: #1A2421;
       background-color: white;
       border: 2px solid #1A2421;
       border-radius: 50px;
-      box-shadow: 4px 4px #1A2421;
       transition: all 0.3s ease-in-out;
     }
 
     .contact-buttons a:hover {
-      box-shadow: none;
+      background-color: #d9d9fe;
     }
 
     /*Skills Section*/
@@ -359,17 +341,16 @@
       font-size: large;
       font-weight: bold;
       padding: 6px 12px;
-      margin: 10px;
+      margin: 6px;
       color: #1A2421;
       background-color: white;
       border: 2px solid #1A2421;
       border-radius: 50px;
-      box-shadow: 4px 4px #1A2421;
       transition: all 0.3s ease-in-out;
     }
 
     .github-dev:hover {
-      box-shadow: none;
+      background-color: #d9d9fe;
     }
 
     .project {
@@ -773,7 +754,8 @@
 
       /*About Section*/
       .about {
-        padding: 0;
+        padding-left: 5%;
+        padding-right: 5%;
       }
   
       .about h1 {
@@ -782,42 +764,24 @@
       }
 
       .about-section {
-        display: flex;
-        flex-direction: column;
-        margin: 0 auto;
-        padding: 1em;
+        padding: 18px;
       }
 
       .about-image {
-        padding-bottom: 1em;
+        padding-bottom: 0.5em;
       }
   
       .about-image img {
-        width: 150px;
+        width: 100px;
         height: auto;
-        padding: 2.5px;
-        transform: none;
       }
   
       .about-text {
         font-size: large;
-        text-align: center;
-        padding: 0;
-        width: 90%;
-      }
-
-      .contact-buttons .ctc-btn i {
-        margin-right: 0;
-      }
-
-      .contact-buttons {
-        transform: translateY(0);
-        padding-left: 0;
       }
   
       .contact-buttons a {
         font-size: medium;
-        margin: 0 8px;
         padding: 8px 10px;
       }
 
