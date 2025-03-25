@@ -222,6 +222,21 @@
       overflow: hidden;
     }
 
+    .about-img {
+      display: flex;
+      align-self: flex-start;
+      justify-content: flex-start;
+    }
+
+    .about-img img {
+      width: 125px;
+      height: auto;
+      border: 2px solid #1A2421;
+      border-radius: 100px;
+      padding: 2px;
+      box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.15);
+    }
+
     .about-text {
       display: flex;
       align-items: flex-start;
@@ -754,8 +769,8 @@
 
       /*About Section*/
       .about {
-        padding-left: 5%;
-        padding-right: 5%;
+        padding-left: 6%;
+        padding-right: 6%;
       }
   
       .about h1 {
@@ -766,12 +781,8 @@
       .about-section {
         padding: 18px;
       }
-
-      .about-image {
-        padding-bottom: 0.5em;
-      }
   
-      .about-image img {
+      .about-img img {
         width: 100px;
         height: auto;
       }
