@@ -263,11 +263,12 @@
       background-color: white;
       border: 2px solid #1A2421;
       border-radius: 50px;
+      box-shadow: 4px 4px #1A2421;
       transition: all 0.3s ease-in-out;
     }
 
     .contact-buttons a:hover {
-      background-color: #d9d9fe;
+      box-shadow: none;
     }
 
     /*Skills Section*/
@@ -361,11 +362,12 @@
       background-color: white;
       border: 2px solid #1A2421;
       border-radius: 50px;
+      box-shadow: 4px 4px #1A2421;
       transition: all 0.3s ease-in-out;
     }
 
     .github-dev:hover {
-      background-color: #d9d9fe;
+      box-shadow: none;
     }
 
     .project {
