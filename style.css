@@ -214,7 +214,7 @@
       flex-direction: column;
       max-width: 800px;
       gap: 15px;
-      border: 2px dashed rgb(190, 190, 190);
+      border: 2px solid rgb(190, 190, 190);
       border-radius: 12px;
       background-color: white;
       padding: 20px;
