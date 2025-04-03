@@ -36,18 +36,37 @@
 <div class="intro-card">
 
 <!--Navigation Bar Section-->
-<div class="navigation">
+<div class="navigation" id="navigation">
 
 <!--Links Section-->
 <div class="imp-links">
-  <a href="#about"><span class="icon-hide"><ion-icon name="person-outline"></ion-icon></span> <span class="text-hide">About</span></a>
-  <a href="#skills"><span class="icon-hide"><ion-icon name="shapes-outline"></ion-icon></span> <span class="text-hide">Skills</span></a>
-  <a href="#projects"><span class="icon-hide"><ion-icon name="folder-open-outline"></ion-icon></span> <span class="text-hide">Projects</span></a>
-  <a href="#certificates"><span class="icon-hide"><ion-icon name="ribbon-outline"></ion-icon></span> <span class="text-hide">Certificates</span></a>
-  <a href="#blogs"><span class="icon-hide"><ion-icon name="book-outline"></ion-icon></span> <span class="text-hide">Blogs</span></a>
-  <a href="#contact"><span class="icon-hide"><ion-icon name="call-outline"></ion-icon></span> <span class="text-hide">Contact</span></a>
+  <a href="#about">About</a>
+  <a href="#skills">Skills</a>
+  <a href="#projects">Projects</a>
+  <a href="#certificates">Certificates</a>
+  <a href="#blogs">Blogs</a>
+  <a href="#contact">Contact</a>
 </div>
 
+<!--Hamburger Menu Section-->
+<div class="hamburger" id="hamburger">
+  <div class="menu-line"></div>
+  <div class="menu-line"></div>
+  <div class="menu-line"></div>
+</div>
+
+</div>
+
+<!--Overlay Menu Section-->
+<div class="overlay" id="overlay">
+  <div class="overlay-links">
+    <a href="#about">About</a>
+    <a href="#skills">Skills</a>
+    <a href="#projects">Projects</a>
+    <a href="#certificates">Certificates</a>
+    <a href="#blogs">Blogs</a>
+    <a href="#contact">Contact</a>
+  </div>
 </div>
 
 <!--Main Section-->
@@ -139,16 +158,10 @@
   <div class="projects-card">
     <div class="github-buttons">
       <a class="github-dev" href="https://github.com/TheMrityunjayPathak/CarPricePrediction" target="_blank">
-        <i class="fa-regular fa-star"></i>Star
-      </a>
-      <a class="github-dev" href="https://github.com/TheMrityunjayPathak/CarPricePrediction/fork" target="_blank">
-        <i class="fa-solid fa-code-fork"></i>Fork
-      </a>
-      <a class="github-dev" href="https://github.com/TheMrityunjayPathak/CarPricePrediction/archive/HEAD.zip" target="_blank">
-        <i class="fa-solid fa-download"></i>Download
+        <i class="fa-brands fa-github"></i>GitHub
       </a>
       <a class="github-dev" href="https://car-price-prediction-using-lr.streamlit.app/" target="_blank">
-        <i class="fa-solid fa-arrow-up-right-from-square"></i>Web Application
+        <i class="fa-solid fa-earth-americas"></i>Application
       </a>
     </div>
   <br>
@@ -160,11 +173,21 @@
   <br><br>
   <b>Problem Statement</b>
   <br><br>
-  ⊳ To develop a Machine Learning Model that can accurately predict the price of used cars based on various features and attributes.
+  ⊳ To develop a model that can accurately predict the price of used cars based on various features and attributes.
   <br><br>
-  ⊳ The predicted price will assist both buyers and sellers in making informed decisions, ensuring fair transactions in the used car market.
+  ⊳ The predicted price will assist both buyers and sellers in making informed decisions and ensure fair transactions.
   <br><br>
-  <a href="https://car-price-prediction-using-lr.streamlit.app/" target="_blank"><img src="Assets/car-price-prediction.png" alt="Car Price Prediction"></a>
+  <b>Some Key Findings</b>
+  <br><br>
+  ⊳ Developed a highly accurate linear model to predict used car prices using various features and attributes.
+  <br><br>
+  ⊳ Achieved an average prediction accuracy of 82% demonstrating strong model performance.
+  <br><br>
+  ⊳ Validated model robustness through rigorous k-fold cross-validation, resulting in a mean cross-val score of 83%.
+  <br><br>
+  ⊳ Created an interactive application using streamlit, enabling users to input data and receive real-time predictions.
+  <br><br>
+  <img src="Assets/car-price-prediction.png" alt="Car Price Prediction"/>
   </div>
   </div>
 
@@ -175,13 +198,10 @@
   <div class="projects-card">
     <div class="github-buttons">
       <a class="github-dev" href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis" target="_blank">
-        <i class="fa-regular fa-star"></i>Star
+        <i class="fa-brands fa-github"></i>GitHub
       </a>
-      <a class="github-dev" href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis/fork" target="_blank">
-        <i class="fa-solid fa-code-fork"></i>Fork
-      </a>
-      <a class="github-dev" href="https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis/archive/HEAD.zip" target="_blank">
-        <i class="fa-solid fa-download"></i>Download
+      <a class="github-dev" href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis" target="_blank">
+        <i class="fa-solid fa-book"></i>Notebook
       </a>
     </div>
   <br>
@@ -191,9 +211,19 @@
   <br><br>
   <b>Problem Statement</b>
   <br><br>
-  ⊳ To gain insights into the content available on Netflix, understanding the patterns to uncover valuable insights into how the platform evolves its offerings.
+  ⊳ To analyze netflix content data, uncovering valuable insights into how the platform evolve its offerings over time.
   <br><br>
-  <a href="https://www.kaggle.com/code/themrityunjaypathak/netflix-data-analysis" target="_blank"><img src="Assets/netflix.png" alt="Netflix Data Analysis"></a>
+  <b>Some Key Findings</b>
+  <br><br>
+  ⊳ Cleaned and analyzed dataset of 8000+ netflix movies and tv shows.
+  <br><br>
+  ⊳ More than 60% of the content on netflix is rated for mature audience only.
+  <br><br>
+  ⊳ More than 20% of the movies and tv shows are uploaded on 1st day of the month.
+  <br><br>
+  ⊳ More than 30% of the content is exclusive for united states.
+  <br><br>
+  <img src="Assets/netflix.png" alt="Netflix Data Analysis"/>
   </div>
   </div>
 
@@ -204,13 +234,10 @@
   <div class="projects-card">
     <div class="github-buttons">
       <a class="github-dev" href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis" target="_blank">
-        <i class="fa-regular fa-star"></i>Star
+        <i class="fa-brands fa-github"></i>GitHub
       </a>
-      <a class="github-dev" href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis/fork" target="_blank">
-        <i class="fa-solid fa-code-fork"></i>Fork
-      </a>
-      <a class="github-dev" href="https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis/archive/HEAD.zip" target="_blank">
-        <i class="fa-solid fa-download"></i>Download
+      <a class="github-dev" href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis" target="_blank">
+        <i class="fa-solid fa-book"></i>Notebook
       </a>
     </div>
   <br>
@@ -224,9 +251,21 @@
   <br><br>
   <b>Problem Statement</b>
   <br><br>
-  ⊳ To gain insights into Supermarket Sales Performance, identifying key factors influencing customer purchasing behavior and product performance.
+  ⊳ To analyze supermarket sales data, identifying key factors for improving profitability and operational efficiency.
   <br><br>
-  <a href="https://www.kaggle.com/code/themrityunjaypathak/supermarket-sales-analysis" target="_blank"><img src="Assets/supermarket.png" alt="Supermarket Sales Analysis"></a>
+  <b>Some Key Findings</b>
+  <br><br>
+  ⊳ Analyzed purchasing pattern of 9000+ customers of supermarket.
+  <br><br>
+  ⊳ More than 15% of the products sold were snacks.
+  <br><br>
+  ⊳ More than 32% of the sales were occurred in west region of the supermarket.
+  <br><br>
+  ⊳ Health and Soft drinks are the most profitable category in beverages.
+  <br><br>
+  ⊳ November was the most profitable month contributing about 15% of the total annual profits.
+  <br><br>
+  <img src="Assets/supermarket.png" alt="Supermarket Sales Analysis"/>
   </div>
   </div>
 </div>
@@ -283,10 +322,10 @@
   </div>
 </div>
 
-<!--Contact Me Section-->
+<!--Contact Section-->
 <div class="contact-me">
 
-  <h1 id="contact">Get in Touch</h1>
+  <h1 id="contact">Contact</h1>
 
   <div class="contact">
   <!--Form Section-->
@@ -308,10 +347,6 @@
 
 </div>
 </div>
-
-<!--Ion Icons Section-->
-<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
-<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 
 <!--Back To Top Button-->
 <script>
@@ -372,6 +407,32 @@ biProjects.forEach(biProject => {
   biProject.addEventListener("click", function() {
     this.classList.toggle("expanded");
     });
+  });
+});
+</script>
+
+<!--Hamburger Menu Section-->
+<script>
+const hamburger = document.getElementById('hamburger');
+const overlay = document.getElementById('overlay');
+
+hamburger.addEventListener('click', () => {
+  hamburger.classList.toggle('open');
+  overlay.style.display = (overlay.style.display === 'flex') ? 'none' : 'flex';
+
+  if (hamburger.classList.contains('open')) {
+    document.body.style.overflow = 'hidden';
+  } else {
+    document.body.style.overflow = '';
+  }
+});
+
+const overlayLinks = document.querySelectorAll('.overlay-links a');
+overlayLinks.forEach(link => {
+  link.addEventListener('click', () => {
+    overlay.style.display = 'none';
+    hamburger.classList.remove('open');
+    document.body.style.overflow = '';
   });
 });
 </script>
