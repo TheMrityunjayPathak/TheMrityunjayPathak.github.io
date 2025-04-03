@@ -100,8 +100,8 @@ git clone https://github.com/TheMrityunjayPathak/TheMrityunjayPathak.github.io.g
 | HTML | CSS | JavaScript | Google Fonts |
 | :---: | :---: | :---: | :---: |
 
-| Font Awesome | Ion Icons | Flaticons | CSS Background |
-| :---: | :---: | :---: | :---: |
+| Font Awesome | Flaticons | CSS Background |
+| :---: | :---: | :---: |
 
 | DesignStripe | Formspree | Color Hunt | W3School |
 | :---: | :---: | :---: | :---: |
