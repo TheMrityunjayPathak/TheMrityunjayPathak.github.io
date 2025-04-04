@@ -1,6 +1,6 @@
 <h2 id='portfolio' align='center'>Mrityunjay Pathak</h2>
 
-<a href="https://themrityunjaypathak.github.io/"><img src="https://github.com/user-attachments/assets/016fe11a-32b4-45b0-8614-14dc853721e0"></a>
+<a href="https://themrityunjaypathak.github.io/"><img src="https://github.com/user-attachments/assets/78a67aa4-0b27-4b07-8305-d41b620b464a"></a>
 
 ## Table of Contents
 - [Overview](#overview)
