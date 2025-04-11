@@ -850,7 +850,6 @@ body::-webkit-scrollbar {
   .skills {
     width: 50%;
     padding-top: 10px;
-    margin: 0 auto;
   }
 
   .skills h1 {
@@ -869,7 +868,7 @@ body::-webkit-scrollbar {
   }
 
   .grid-item {
-    width: 36.5%;
+    width: 38%;
     height: 100px;
     margin: 0 auto;
   }
@@ -881,7 +880,7 @@ body::-webkit-scrollbar {
 
   /*Projects Section*/
   .projects {
-    width: 85%;
+    width: 86.2%;
     max-width: auto;
     padding-top: 15px;
   }
@@ -930,7 +929,7 @@ body::-webkit-scrollbar {
 
   /*Certificates Section*/
   .certificates {
-    width: 92%;
+    width: 92.5%;
     max-width: auto;
     font-size: small;
     padding-top: 10px;
@@ -967,7 +966,7 @@ body::-webkit-scrollbar {
 
   /*Blogs Section*/
   .blogs {
-    width: 92%;
+    width: 93.5%;
     max-width: auto;
     font-size: small;
     padding-bottom: 10px;
@@ -1011,9 +1010,9 @@ body::-webkit-scrollbar {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    min-width: 119%;
-    max-width: 119%;
-    transform: translateX(-8.5%);
+    min-width: 126%;
+    max-width: 126%;
+    transform: translateX(-11%);
   }
 
   .contact-me h1 {
@@ -1030,7 +1029,7 @@ body::-webkit-scrollbar {
     font-size: medium;
     width: 60%;
     padding: 0.1em;
-    transform: translateX(-32.5px);
+    transform: translateX(-30px);
   }
 
   #fs-frm [type="text"],
@@ -1041,7 +1040,7 @@ body::-webkit-scrollbar {
   #fs-frm [type="button"],
   #fs-frm [type="submit"] {
     width: auto;
-    transform: translate(30px, 7.5px);
+    transform: translate(32px, 7.5px);
   }
 
   }
