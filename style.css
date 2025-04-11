@@ -818,8 +818,9 @@ body::-webkit-scrollbar {
 
   /*About Section*/
   .about {
-    padding-left: 6%;
-    padding-right: 6%;
+    padding-left: 7%;
+    padding-right: 7%;
+    margin: 0 auto;
   }
 
   .about h1 {
@@ -868,8 +869,9 @@ body::-webkit-scrollbar {
   }
 
   .grid-item {
-    width: 37%;
+    width: 36.5%;
     height: 100px;
+    margin: 0 auto;
   }
   
   .grid-item img {
@@ -879,7 +881,7 @@ body::-webkit-scrollbar {
 
   /*Projects Section*/
   .projects {
-    width: 87%;
+    width: 85%;
     max-width: auto;
     padding-top: 15px;
   }
@@ -928,7 +930,7 @@ body::-webkit-scrollbar {
 
   /*Certificates Section*/
   .certificates {
-    width: 93%;
+    width: 92%;
     max-width: auto;
     font-size: small;
     padding-top: 10px;
@@ -965,7 +967,7 @@ body::-webkit-scrollbar {
 
   /*Blogs Section*/
   .blogs {
-    width: 93%;
+    width: 92%;
     max-width: auto;
     font-size: small;
     padding-bottom: 10px;
@@ -1009,9 +1011,9 @@ body::-webkit-scrollbar {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    min-width: 120%;
-    max-width: 120%;
-    transform: translateX(-9%);
+    min-width: 119%;
+    max-width: 119%;
+    transform: translateX(-8.5%);
   }
 
   .contact-me h1 {
@@ -1026,9 +1028,9 @@ body::-webkit-scrollbar {
     flex-direction: column;
     align-items: center;
     font-size: medium;
-    width: 70%;
+    width: 60%;
     padding: 0.1em;
-    transform: translateX(-28px);
+    transform: translateX(-32.5px);
   }
 
   #fs-frm [type="text"],
@@ -1039,7 +1041,7 @@ body::-webkit-scrollbar {
   #fs-frm [type="button"],
   #fs-frm [type="submit"] {
     width: auto;
-    transform: translate(25px, 7.5px);
+    transform: translate(30px, 7.5px);
   }
 
   }
