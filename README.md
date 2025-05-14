@@ -77,6 +77,7 @@
 ## Installation
 
 - Clone this repository to your local machine by using the following command :
+
 ```bash
 git clone https://github.com/TheMrityunjayPathak/TheMrityunjayPathak.github.io.git
 ```
@@ -95,7 +96,7 @@ git clone https://github.com/TheMrityunjayPathak/TheMrityunjayPathak.github.io.g
 
 ## Technologies
 
-- This portfolio website was built using the following technologies :
+This portfolio website was built using the following technologies :
 
 | HTML | CSS | JavaScript | Google Fonts |
 | :---: | :---: | :---: | :---: |
