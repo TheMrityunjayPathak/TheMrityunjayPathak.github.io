@@ -32,6 +32,8 @@
 
 **Link of CSS Backgrounds** : [CSS Backgrounds](https://www.magicpattern.design/tools/css-backgrounds)
 
+![image](https://github.com/user-attachments/assets/de7e276d-caab-448d-8738-49b5a4200516)
+
 ---
 
 **DesignStripe**
@@ -44,6 +46,8 @@
 
 **Link of DesignStripe** : [DesignStripe](https://designstripe.com/)
 
+![image](https://github.com/user-attachments/assets/5db88f07-0b06-4b8a-a92e-cda0fbd1b552)
+
 ---
 
 **Google Fonts**
@@ -54,15 +58,7 @@
 
 **Link of Google Fonts** : [Google Fonts](https://fonts.google.com/)
 
----
-
-**Flaticons**
-
-• I've made sure the website is easy to navigate with the help of Flaticons.
-
-• These icons are visually appealing and are free to use in PNG or SVG format in any size.
-
-**Link of Flaticons** : [Flaticons](https://www.flaticon.com/)
+![image](https://github.com/user-attachments/assets/1ffed713-3ae1-47e3-9c61-a3f36374d6a1)
 
 ---
 
@@ -73,6 +69,8 @@
 • It's simple and functional, without the need for complex backend technologies like PHP.
 
 **Link of Formspree** : [Formspree](https://formspree.io/)
+
+![image](https://github.com/user-attachments/assets/749b3abe-fe78-4cf6-a300-c53e2a3a3c91)
 
 ## Installation
 
@@ -98,13 +96,10 @@ git clone https://github.com/TheMrityunjayPathak/TheMrityunjayPathak.github.io.g
 
 This portfolio website was built using the following technologies :
 
-| HTML | CSS | JavaScript | Google Fonts |
-| :---: | :---: | :---: | :---: |
+| HTML | CSS | JavaScript | Google Fonts | Font Awesome |
+| :---: | :---: | :---: | :---: | :---: |
 
-| Font Awesome | Flaticons | CSS Background |
-| :---: | :---: | :---: |
-
-| DesignStripe | Formspree | Color Hunt | W3School |
+| DesignStripe | Formspree | CSS Background | W3School |
 | :---: | :---: | :---: | :---: |
 
 ## License
