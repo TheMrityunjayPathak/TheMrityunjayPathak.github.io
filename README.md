@@ -32,7 +32,7 @@
 
 **Link of CSS Backgrounds** : [CSS Backgrounds](https://www.magicpattern.design/tools/css-backgrounds)
 
-![image](https://github.com/user-attachments/assets/de7e276d-caab-448d-8738-49b5a4200516)
+![Screenshot 2025-05-14 175449](https://github.com/user-attachments/assets/63fb6be6-08e1-467a-affc-c2b77661bffc)
 
 ---
 
@@ -46,7 +46,7 @@
 
 **Link of DesignStripe** : [DesignStripe](https://designstripe.com/)
 
-![image](https://github.com/user-attachments/assets/5db88f07-0b06-4b8a-a92e-cda0fbd1b552)
+![Screenshot 2025-05-14 175528](https://github.com/user-attachments/assets/1df766b8-0eb3-4601-b620-8060a275a525)
 
 ---
 
@@ -58,7 +58,7 @@
 
 **Link of Google Fonts** : [Google Fonts](https://fonts.google.com/)
 
-![image](https://github.com/user-attachments/assets/1ffed713-3ae1-47e3-9c61-a3f36374d6a1)
+![Screenshot 2025-05-14 175632](https://github.com/user-attachments/assets/fc7bd8dc-337e-4c2f-88fe-f8a640c052c0)
 
 ---
 
@@ -70,7 +70,7 @@
 
 **Link of Formspree** : [Formspree](https://formspree.io/)
 
-![image](https://github.com/user-attachments/assets/749b3abe-fe78-4cf6-a300-c53e2a3a3c91)
+![Screenshot 2025-05-14 175609](https://github.com/user-attachments/assets/e6a1b762-8079-446d-8e62-6c4a2683a4c0)
 
 ## Installation
 
