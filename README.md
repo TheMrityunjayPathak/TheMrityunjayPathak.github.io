@@ -76,7 +76,7 @@
 
 ## Installation
 
-- Clone this repository to your local machine by using the following command :
+Clone this repository to your local machine by using the following command :
 
 ```bash
 git clone https://github.com/TheMrityunjayPathak/TheMrityunjayPathak.github.io.git
