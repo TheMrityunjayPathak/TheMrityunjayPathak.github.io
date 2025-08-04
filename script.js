@@ -1,4 +1,4 @@
-// Back To Top Button
+// Back To Top Button Section
 let mybutton = document.getElementById("Back-To-Top");
 window.onscroll = function () {
   scrollFunction();
