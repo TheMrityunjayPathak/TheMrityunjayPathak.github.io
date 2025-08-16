@@ -46,7 +46,7 @@
 
 **Link of Visual** : [Visual](https://visual.app/)
 
-<img src="https://github.com/user-attachments/assets/96b5a487-8417-408c-99d1-0083249a8950">
+<img src="https://github.com/user-attachments/assets/3683b141-7d30-4d8a-a15f-e6e5eca7eff3">
 
 ---
 
