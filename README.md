@@ -32,21 +32,21 @@
 
 **Link of CSS Backgrounds** : [CSS Backgrounds](https://www.magicpattern.design/tools/css-backgrounds)
 
-![Screenshot 2025-05-14 175449](https://github.com/user-attachments/assets/63fb6be6-08e1-467a-affc-c2b77661bffc)
+<img src="https://github.com/user-attachments/assets/63fb6be6-08e1-467a-affc-c2b77661bffc">
 
 ---
 
-**DesignStripe**
+**Visual**
 
-• The illustration in the hero section of the website is downloaded from DesignStripe.
+• The illustration in the hero section of the website is downloaded from Visual.
 
 • They provide illustrations with different theme of very high quality to download for free. 
 
 • You can download it as PNG or SVG with transparent background.
 
-**Link of DesignStripe** : [DesignStripe](https://designstripe.com/)
+**Link of Visual** : [Visual](https://visual.app/)
 
-![Screenshot 2025-05-14 175528](https://github.com/user-attachments/assets/1df766b8-0eb3-4601-b620-8060a275a525)
+<img src="https://github.com/user-attachments/assets/96b5a487-8417-408c-99d1-0083249a8950">
 
 ---
 
@@ -58,7 +58,7 @@
 
 **Link of Google Fonts** : [Google Fonts](https://fonts.google.com/)
 
-![Screenshot 2025-05-14 175632](https://github.com/user-attachments/assets/fc7bd8dc-337e-4c2f-88fe-f8a640c052c0)
+<img src="https://github.com/user-attachments/assets/fc7bd8dc-337e-4c2f-88fe-f8a640c052c0">
 
 ---
 
@@ -70,7 +70,7 @@
 
 **Link of Formspree** : [Formspree](https://formspree.io/)
 
-![Screenshot 2025-05-14 175609](https://github.com/user-attachments/assets/e6a1b762-8079-446d-8e62-6c4a2683a4c0)
+<img src="https://github.com/user-attachments/assets/e6a1b762-8079-446d-8e62-6c4a2683a4c0">
 
 ## Installation
 
