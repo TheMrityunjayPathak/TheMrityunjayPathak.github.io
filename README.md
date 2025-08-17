@@ -96,17 +96,17 @@ git clone https://github.com/TheMrityunjayPathak/TheMrityunjayPathak.github.io.g
 
 This portfolio website was built using the following technologies :
 
-| HTML | CSS | JavaScript | Google Fonts | Font Awesome |
+| HTML | CSS | JS | Google Fonts | Font Awesome |
 | :---: | :---: | :---: | :---: | :---: |
 
-| DesignStripe | Formspree | CSS Background | W3School |
+| Visual | Formspree | CSS Background | W3School |
 | :---: | :---: | :---: | :---: |
 
 ## License
 
 - This project is licensed under the [MIT License](LICENSE).
 
-- You are free to use and modify the code as needed for your own portfolio website.
+- You are free to use and modify the code as needed.
 
 <div align='left'>
   
