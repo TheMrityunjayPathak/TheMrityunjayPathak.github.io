@@ -439,6 +439,12 @@ body::-webkit-scrollbar {
   text-shadow: 0 0 1px #1A2421;
 }
 
+.desc-point {
+  font-size: medium;
+  color: #1A2421;
+  text-shadow: 0 0 1px #1A2421;
+}
+
 /*Certificates Section*/
 .certificates {
   display: flex;
