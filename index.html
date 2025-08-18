@@ -73,7 +73,7 @@
 
   <div class="main-text">
     Hi 👋, I'm<br>Mrityunjay<br>Pathak
-
+    
     <div class="main-links">
       <a href="#about">Know More <i class="fa-solid fa-circle-arrow-right"></i></a>
       <a href="#contact">Get in Touch <i class="fa-solid fa-circle-arrow-right"></i></a>
@@ -164,7 +164,81 @@
   <h1>Projects</h1>
 
   <div class="project">
+  <div class="project-header">
+    <h3>CAR PRICE PREDICTION</h3>
+  </div>
+  <div class="projects-card">
+    <div class="github-buttons">
+      <a class="github-dev" href="https://github.com/TheMrityunjayPathak/AutoIQ" target="_blank">
+        <i class="fa-brands fa-github"></i>GitHub
+      </a>
+      <a class="github-dev" href="https://themrityunjaypathak.github.io/AutoIQ/" target="_blank">
+        <i class="fa-solid fa-earth-americas"></i>Application
+      </a>
+    </div>
+  <br>
+  <p>
+  <span class="desc-heading">Problem</span>
+  <br><br>
+  ⊳ In the used car market, buyers and sellers often struggle to determine a fair price for their vehicle.
+  <br><br>
+  ⊳ This project aims to provide accurate and transparent pricing for used cars by analyzing real-world data.
+  <br><br>
+  ⊳ It will assist both buyers and sellers make data-driven decisions and ensure fair transactions.
+  <br><br><br>
+  <span class="desc-heading">Solution</span>
+  <br><br>
+  To address this problem, I built and deployed a complete end-to-end machine learning pipeline :
+  <br><br>
+  <span class="desc-point">⊳ Data Collection</span>
+  <br><br>
+  → Scraped a dataset of ~2,800 used cars from Cars24 using Selenium and BeautifulSoup.
+  <br><br>
+  <span class="desc-point">⊳ Data Optimization</span>
+  <br><br>
+  → Optimized memory consumption of dataset by downcasting data types.
+  <br><br>
+  → Stored the dataset in Parquet format, which compresses data without losing information.
+  <br><br>
+  → It also provides much faster read/write speeds compared to CSV.
+  <br><br>
+  <span class="desc-point">⊳ Preprocessing & Modeling</span>
+  <br><br>
+  → Implemented Scikit-learn Pipelines & ColumnTransformer to prevent data leakage.
+  <br><br>
+  <span class="desc-point">⊳ API Deployment</span>
+  <br><br>
+  → Deployed the machine learning model as an API using FastAPI, with :
+  <br><br>
+  → /predict endpoint for real-time predictions.
+  <br><br>
+  → /health endpoint for monitoring API status.
+  <br><br>
+  → Input validation & rate limiting for reliability.
+  <br><br>
+  <span class="desc-point">⊳ Frontend Integration</span>
+  <br><br>
+  → Designed a HTML/CSS/JS website to send API calls and display predictions in a user-friendly way.
+  <br><br>
+  <span class="desc-point">⊳ Containerization</span>
+  <br><br>
+  → Created a multi-stage Dockerfile with .dockerignore for building an optimized and lightweight Docker image.
+  <br><br><br>
+  <span class="desc-heading">Impact</span>
+  <br><br>
+  ⊳ Built and deployed a complete machine learning pipeline as a FastAPI application.
+  <br><br>
+  ⊳ Reduced dataset memory usage by ~90% through data type optimization and Parquet conversion.
+  <br><br>
+  ⊳ Delivered ~30% lower MAE and ~12% higher R2-Score compared to the baseline model.
+  <br><br>
+  ⊳ Improved model stability by ~70%, ensuring more consistent and reliable predictions.
+  </p>
+  <img src="Assets/car_price_prediction.png" alt="Car Price Prediction"/>
+  </div>
+  </div>
 
+  <div class="project">
   <div class="project-header">
     <h3>Movie Recommender System</h3>
   </div>
@@ -188,17 +262,17 @@
   ⊳ This problem can lead to frustration, lower satisfaction and less time spent on the platform.
   <br><br>
   ⊳ Which can impact both the user experience and business performance.
-  <br><br>
+  <br><br><br>
   <span class="desc-heading">Solution</span>
   <br><br>
   ⊳ A content-based movie recommender system built with clean and modular code with proper version control.
   <br><br>
   ⊳ It analyzes metadata of 5000+ movies to recommend top 5 similar titles based on a user selected input.
   <br><br>
-  ⊳ The system uses techniques like count_vectorizer and cosine_similarity to recommend similar movies.
+  ⊳ The system uses techniques like CountVectorizer and CosineSimilarity to recommend similar movies.
   <br><br>
   ⊳ The project not only focuses on functionality but on building a clean and scalable solution.
-  <br><br>
+  <br><br><br>
   <span class="desc-heading">Impact</span>
   <br><br>
   If this system gets scaled and integrated with a streaming service, this could :
@@ -231,29 +305,29 @@
   <span class="desc-heading">Problem Statement</span>
   <br><br>
   ⊳ To analyze Netflix content data, uncovering valuable insights into how the platform evolves over time.
-  <br><br>
+  <br><br><br>
   <span class="desc-heading">Some Key Findings</span>
   <br><br>
-  ⊳ Cleaned and analyzed dataset of 8000+ Netflix Movies and TV Shows.
+  Cleaned and analyzed dataset of 8000+ Netflix Movies and TV Shows.
   <br><br>
   ⊳ More than 60% of content on Netflix is rated for mature audiences.
-  <br>
+  <br><br>
   → Suggests that Netflix targets adult viewers to boost engagement and retention.
   <br><br>
   ⊳ More than 25% of Movies and TV Shows are released on 1st day of the month.
-  <br>
+  <br><br>
   → Shows a consistent release schedule, likely to align with subscription cycles.
   <br><br>
   ⊳ More than 40% of the content on Netflix is exclusive to United States.
-  <br>
+  <br><br>
   → Shows a strong focus on the U.S. market and content availability by location.
   <br><br>
   ⊳ More than 20% of the content on Netflix falls under the "Drama" genre.
-  <br>
+  <br><br>
   → Confirms that "Drama" is a key part of Netflix's content library.
   <br><br>
   ⊳ More than 23% of the content on Netflix was released in 2019 alone.
-  <br>
+  <br><br>
   → Indicates a major content push that year, possibly tied to growth or user acquisition goals.
   </p>
   <img src="Assets/netflix.png" alt="Netflix Data Analysis"/>
@@ -278,25 +352,25 @@
   <span class="desc-heading">Problem Statement</span>
   <br><br>
   ⊳ To analyze Supermarket Sales data, identifying key factors for improving profitability and operational efficiency.
-  <br><br>
+  <br><br><br>
   <span class="desc-heading">Some Key Findings</span>
   <br><br>
-  ⊳ Analyzed purchasing pattern of 9000+ customers of Supermarket.
+  Analyzed purchasing pattern of 9000+ customers of Supermarket.
   <br><br>
   ⊳ More than 15% of the products sold were Snacks.
-  <br>
+  <br><br>
   → Shows that Snacks are a convenient choice and a big source of revenue.
   <br><br>
   ⊳ More than 32% of the sales were occurred in West region of Supermarket.
-  <br>
+  <br><br>
   → Suggests that West region is a strong performing area as compared to others.
   <br><br>
   ⊳ Health and Soft drinks are the most profitable category in Beverages.
-  <br>
+  <br><br>
   → Shows that both type of drinks option sells well.
   <br><br>
   ⊳ November was the most profitable month contributing about 15% of the total annual profits.
-  <br>
+  <br><br>
   → Makes it an ideal time for running promotions and special offers.
   </p>
   <img src="Assets/supermarket.png" alt="Supermarket Sales Analysis"/>
@@ -404,6 +478,3 @@
 
 </body>
 </html>
-
-
-
