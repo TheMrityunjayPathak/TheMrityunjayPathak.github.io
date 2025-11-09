@@ -2,7 +2,7 @@
 <h1 id="header">Mrityunjay Pathak</h1>
 </div>
 
-<a href="https://themrityunjaypathak.github.io/"><img title="Mrityunjay's Portfolio" src="https://github.com/user-attachments/assets/5d5e0d1d-053c-45b3-9a0a-738e74ce8b12"></a>
+<a href="https://themrityunjaypathak.github.io/"><img title="Mrityunjay's Portfolio" src="https://github.com/user-attachments/assets/50499a45-8a51-4949-8786-6017387c0cc4"></a>
 
 ## Features
 
@@ -47,7 +47,7 @@
 - Also easy to customize size, colors and style to match the website theme.
 
 <a href="https://fontawesome.com/icons">
-<img title="Font Awesome" src="https://github.com/user-attachments/assets/953d046a-d423-4d6d-9e77-8bab06385250">
+<img title="Font Awesome" src="https://github.com/user-attachments/assets/5058b9b7-f51d-4a77-ba15-4884c0ffc608">
 </a>
 
 ---
