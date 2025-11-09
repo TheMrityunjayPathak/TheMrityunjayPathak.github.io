@@ -1,115 +1,127 @@
-<h2 id='portfolio' align='center'>Mrityunjay Pathak</h2>
+<div align="center">
+<h1 id="header">Mrityunjay Pathak</h1>
+</div>
 
-<a href="https://themrityunjaypathak.github.io/"><img src="https://github.com/user-attachments/assets/8a5f0e9e-b249-4733-9c3d-b3c7abbf7312"></a>
-
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [License](#license)
-
-## Overview
-
-- This portfolio website serves as a digital representation of my work, skills, experience and achievements.
-
-- It provides a platform for potential collaborators and employers to explore more about me.
-
-[Feedback from the Community »](https://www.kaggle.com/discussions/accomplishments/520952)
+<a href="https://themrityunjaypathak.github.io/"><img title="Mrityunjay's Portfolio" src="https://github.com/user-attachments/assets/5d5e0d1d-053c-45b3-9a0a-738e74ce8b12"></a>
 
 ## Features
 
 **CSS Backgrounds**
+- The stylish dotted patterns are created using CSS Backgrounds.
+- It has editable background pattern presets made entirely by CSS.
+- You can copy it as CSS or download PNG image of the pattern.
+- It adds a modern and professional aesthetic to the website.
 
-• The stylish dotted patterns in the hero section of the website is created by using CSS Backgrounds.
-
-• Here you will find presets of background patterns made entirely by CSS.
-
-• You can edit colors and size of the pattern and copy it as CSS or download PNG image of the pattern.
-
-• It adds a modern and professional touch to the overall website.
-
-**Link of CSS Backgrounds** : [CSS Backgrounds](https://www.magicpattern.design/tools/css-backgrounds)
-
-<img src="https://github.com/user-attachments/assets/63fb6be6-08e1-467a-affc-c2b77661bffc">
+<a href="https://www.magicpattern.design/tools/css-backgrounds">
+<img title="CSS Background" src="https://github.com/user-attachments/assets/63fb6be6-08e1-467a-affc-c2b77661bffc">
+</a>
 
 ---
 
 **Visual**
+- The hero section illustration is downloaded from Visual.
+- They offer high quality free illustrations for different theme and style.
+- Available for download in PNG or SVG format with transparent backgrounds.
 
-• The illustration in the hero section of the website is downloaded from Visual.
-
-• They provide illustrations with different theme of very high quality to download for free. 
-
-• You can download it as PNG or SVG with transparent background.
-
-**Link of Visual** : [Visual](https://visual.app/)
-
-<img src="https://github.com/user-attachments/assets/3683b141-7d30-4d8a-a15f-e6e5eca7eff3">
+<a href="https://visual.app/">
+<img title="Visual" src="https://github.com/user-attachments/assets/3683b141-7d30-4d8a-a15f-e6e5eca7eff3">
+</a>
 
 ---
 
 **Google Fonts**
+- I used Google Fonts to enhance the readability and visual appearance of the website.
+- It ensures a clean and professional look across all devices and screen sizes.
 
-• To enhance the readability and visual appeal, I've used Google Fonts for the text and headings.
+<a href="https://fonts.google.com/">
+<img title="Google Fonts" src="https://github.com/user-attachments/assets/fc7bd8dc-337e-4c2f-88fe-f8a640c052c0">
+</a>
 
-• It's all about making sure everything looks great and is easy to read.
+---
 
-**Link of Google Fonts** : [Google Fonts](https://fonts.google.com/)
+**Font Awesome**
+- I use Font Awesome icons to make the website more interactive and dynamic.
+- Icons paired with text make buttons, links and sections easier to understand.
+- They give a visual sense for actions like Email, GitHub, or Social links.
+- They can react with hover effects or animations, making the website feel alive.
+- Also easy to customize size, colors and style to match the website theme.
 
-<img src="https://github.com/user-attachments/assets/fc7bd8dc-337e-4c2f-88fe-f8a640c052c0">
+<a href="https://fontawesome.com/icons">
+<img title="Font Awesome" src="https://github.com/user-attachments/assets/953d046a-d423-4d6d-9e77-8bab06385250">
+</a>
 
 ---
 
 **Formspree**
+- Built a contact form powered by Formspree, without the need for complex backend technologies like PHP.
+- Makes it simple for users to get in touch without complex server setups.
 
-• I've included a contact form powered by Formspree, which ensures that reaching out to me is as easy as possible.
+<a href="https://formspree.io/">
+<img title="Formspree" src="https://github.com/user-attachments/assets/e6a1b762-8079-446d-8e62-6c4a2683a4c0">
+</a>
 
-• It's simple and functional, without the need for complex backend technologies like PHP.
-
-**Link of Formspree** : [Formspree](https://formspree.io/)
-
-<img src="https://github.com/user-attachments/assets/e6a1b762-8079-446d-8e62-6c4a2683a4c0">
+<hr>
 
 ## Installation
-
-Clone this repository to your local machine by using the following command :
-
+- First, you need to download the project from GitHub to your local system.
 ```bash
 git clone https://github.com/TheMrityunjayPathak/TheMrityunjayPathak.github.io.git
 ```
+- Then, navigate into the project directory.
+```bash
+cd TheMrityunjayPathak.github.io
+```
+
+<hr>
+
+## Setup
+- After cloning, you can view and test the portfolio locally.
+
+**Option 1 - Open Directly in Browser**
+- Simply double-click the ```index.html``` file to open it in your default browser.
+
+**Option 2 - Run a Local Development Server**
+- For better testing, use VS Code Live Server.
+- Open the project folder in Visual Studio Code.
+- Install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension (if not already installed).
+- Right-click on index.html → ```Open with Live Server```.
+- The site will open at ```http://localhost:5500/``` (or a similar port).
+
+<hr>
+
+## Folder Structure
+```
+TheMrityunjayPathak.github.io/
+│
+├── Assets/                  
+│   ├── Blogs/               # Blog Images
+│   ├── Certificates/        # Certificate Images     
+│   ├── Icons/               # Website Icons
+│   ├── Projects/            # Project Images
+│   └── Skills/              # Skill Images
+│
+├── index.html               # Main HTML File
+├── style.css                # CSS Style File
+├── script.js                # JavaScript File
+├── README.md                # Documentaion of the Portfolio
+└── LICENSE                  # Specifying Permissions and Usage Rights
+```
+
+<hr>
 
 ## Usage
+> [!IMPORTANT]
+>
+> If you want to fork or copy this repository to use for your own portfolio.
+>
+> Please be a decent human being and give proper credit by linking back to my website : [Mrityunjay Pathak](https://themrityunjaypathak.github.io/)
+>
+> You can also check out this [Quora](https://www.quora.com/Is-it-bad-to-copy-other-peoples-code) post to understand why giving credit matters.
 
-- Customize this website with your own projects, skills and contact details.
-
-- To customize the website :
-
-   - Modify the HTML file to update your project descriptions, images and content.
-  
-   - Adjust the CSS file to change the styling and appearance of the website.
-  
-   - Utilize JavaScript file for any interactive features you wish to add.
-
-## Technologies
-
-This portfolio website was built using the following technologies :
-
-| HTML | CSS | JS | Google Fonts | Font Awesome |
-| :---: | :---: | :---: | :---: | :---: |
-
-| Visual | Formspree | CSS Background | W3School |
-| :---: | :---: | :---: | :---: |
-
-## License
-
-- This project is licensed under the [MIT License](LICENSE).
-
-- You are free to use and modify the code as needed.
+<hr>
 
 <div align='left'>
   
-**[`^        Scroll to Top       ^`](#portfolio)**
+**[`^        Scroll to Top       ^`](#header)**
 
 </div>
