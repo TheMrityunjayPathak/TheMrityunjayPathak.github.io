@@ -332,11 +332,12 @@ body::-webkit-scrollbar {
 }
 
 .social-links {
-  display: grid;
-  grid-template-columns: repeat(4, auto);
-  align-items: start;
-  justify-content: start;
-  gap: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  gap: 10px;
 }
 
 .social-links a {
@@ -346,20 +347,25 @@ body::-webkit-scrollbar {
   justify-content: center;
   justify-items: center;
   box-sizing: border-box;
-  height: 20px;
-  width: 20px;
-  font-size: 20px;
-  padding: 20px;
-  background-color: white;
+  width: 100%;
+  font-size: large;
+  font-weight: 450;
+  letter-spacing: -1px;
+  padding: 6px 12px;
   color: #1A2421;
   border: 1px solid #1A2421;
-  border-radius: 50%;
+  border-radius: 100px;
   transition: all 0.3s ease-in-out;
 }
 
 .social-links a i {
-  display: block;
-  line-height: 1;
+  margin-left: 12px;
+  transform: rotate(-45deg);
+  transition: all 0.3s ease-in-out;
+}
+
+.social-links a:hover i {
+  transform: rotate(0deg);
 }
 
 .social-links a:hover {
@@ -387,20 +393,19 @@ body::-webkit-scrollbar {
 
 .read-more-btn {
   cursor: pointer;
-  margin-top: 10px;
-  padding: 5px 12px;
+  padding: 0;
   font-family: "Montserrat", sans-serif;
   font-size: large;
   font-weight: 450;
   letter-spacing: -1px;
   background-color: white;
-  border: 1px solid #1A2421;
-  border-radius: 100px;
+  color: #6A66BD;
+  border: none;
   transition: all 0.3s ease-in-out;
 }
 
 .read-more-btn:hover {
-  background-color: #BBBBFF;
+  color: #BBBBFF;
 }
 
 /* Skills Section */
@@ -1052,11 +1057,13 @@ body::-webkit-scrollbar {
     gap: 8px;
   }
 
+  .social-links {
+    flex-direction: column;
+    gap: 12px;
+  }
+
   .social-links a {
-    display: inline-flex;
-    width: 18px;
-    height: 18px;
-    font-size: 18px;
+    font-size: medium;
   }
 
   /* Skills Section */
