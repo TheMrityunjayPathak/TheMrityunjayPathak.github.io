@@ -65,7 +65,7 @@
 ## Installation
 - First, you need to download the project from GitHub to your local system.
 ```bash
-git clone https://github.com/TheMrityunjayPathak/TheMrityunjayPathak.github.io.git
+git clone https://github.com/themrityunjaypathak/TheMrityunjayPathak.github.io.git
 ```
 - Then, navigate into the project directory.
 ```bash
