@@ -65,11 +65,11 @@
 ## Installation
 - First, you need to download the project from GitHub to your local system.
 ```bash
-git clone https://github.com/themrityunjaypathak/TheMrityunjayPathak.github.io.git
+git clone https://github.com/themrityunjaypathak/themrityunjaypathak.github.io.git
 ```
 - Then, navigate into the project directory.
 ```bash
-cd TheMrityunjayPathak.github.io
+cd themrityunjaypathak.github.io
 ```
 
 <hr>
@@ -91,7 +91,7 @@ cd TheMrityunjayPathak.github.io
 
 ## Folder Structure
 ```
-TheMrityunjayPathak.github.io/
+themrityunjaypathak.github.io/
 │
 ├── Assets/                  
 │   ├── Blogs/               # Blog Images
